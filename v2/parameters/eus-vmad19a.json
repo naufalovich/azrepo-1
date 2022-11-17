@@ -23,6 +23,12 @@
         "virtualNetworkId": {
             "value": "/subscriptions/e83bf359-b68a-43d7-8ff5-2efb1e4e6124/resourceGroups/eus-rg/providers/Microsoft.Network/virtualNetworks/eus-vnet"
         },
+        "publicIpAddressId": {
+            "value": "/subscriptions/e83bf359-b68a-43d7-8ff5-2efb1e4e6124/resourceGroups/sea-rg/providers/Microsoft.Network/publicIPAddresses/eus-pipad19a"
+        },
+        "pipDeleteOption": {
+            "value": "Detach"
+        },
         "virtualMachineName": {
             "value": "eus-vmad19a"
         },
