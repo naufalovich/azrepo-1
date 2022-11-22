@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "diskName": {
-            "value": "eus-vmad19a_dd1"
+            "value": "eus-ddad19a-1"
         },
         "location": {
             "value": "eastus"
