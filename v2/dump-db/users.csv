@@ -1,0 +1,748 @@
+﻿SamAccountName,GivenName,UserPrincipalName,DistinguishedName,Password,Domain
+administrator,Administrator,administrator@minilico.xyz,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+service.crm,Service,service.crm@minilico.xyz,"OU=AG-IT,OU=Vendor User,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admin.jabber,Admin Jabber,admin.jabber@minilico.xyz,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admin.crm,Admin,admin.crm@minilico.xyz,"OU=AG-IT,OU=Vendor User,DC=minilico,DC=xyz",Password123,@minilico.xyz
+vrts_service,Vrts Service,vrts_service@minilico.xyz,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+binsar.marpaung,Binsar,binsar.marpaung@traknus.co.id,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+ex_service,Ex Service,ex_service@minilico.xyz,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+hadi.saputro,Hadi,hadi.saputro@traknus.co.id,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admin.agit,Admin,admin.agit@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+agitcoba365,Agit,agitcoba365@traknus.co.id,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admin.mail,Admin Mail,admin.mail@minilico.xyz,"OU=Information Technology,OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+agit.project2,Agit,agit.project2@traknus.co.id,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+agitproject.office,Agit,agitproject.office@traknus.co.id,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+farhah.bella,Farhah,farhah.bella@traknus.co.id,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admin,Admin,admin@minilico.xyz,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+agit.project4,Agit,agit.project4@traknus.co.id,"OU=AG-IT,OU=Vendor User,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admin.hris,Admin,admin.hris@minilico.xyz,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admin.inspire,Admin,admin.inspire@minilico.xyz,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+david.nurcahya,David,david.nurcahya@traknus.co.id,"OU=Office365,DC=minilico,DC=xyz",Password123,@minilico.xyz
+it.helpdesk,It,it.helpdesk@minilico.xyz,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+arief.husein,Arief,arief.husein@traknus.co.id,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+ririn.arissanty,Ririn,ririn.arissanty@traknus.co.id,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+izzat.buchari,Izzat,izzat.buchari@traknus.co.id,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+dev.trs,Dev Trs,dev.trs@minilico.xyz,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admin.website,Admin,admin.website@minilico.xyz,"OU=HRIS,OU=Vendor User,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admin.activa,Admin,admin.activa@minilico.xyz,"OU=INSPIRE,OU=Vendor User,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admin.backup,Admin,admin.backup@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+it.workshop,It,it.workshop@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+crm.agit,Crm,crm.agit@minilico.xyz,"OU=Information Technology,OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admin.trs,Admin,admin.trs@minilico.xyz,"OU=Information Technology,OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+developer04.trs,Developer04,developer04.trs@minilico.xyz,"OU=Information Technology,OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+dev.crm,Developer,dev.crm@minilico.xyz,"OU=INTERSOFT,OU=Vendor User,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admin.vcenter,Admin Vcenter,admin.vcenter@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+developer01.trs,Developer01 Trs,developer01.trs@minilico.xyz,"OU=INTERSOFT,OU=Vendor User,DC=minilico,DC=xyz",Password123,@minilico.xyz
+dev_mob_trs,Developer,dev_mob_trs@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+test1,Test1,test1@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+developer05.trs,Developer05 Trs,developer05.trs@minilico.xyz,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+crm,Crm,crm@minilico.xyz,"OU=TECTURA,OU=Vendor User,DC=minilico,DC=xyz",Password123,@minilico.xyz
+widjaja.kartika,Widjaja,widjaja.kartika@traknus.co.id,"OU=Traknus CRM Jakarta,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admin.landesk,Admin,admin.landesk@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+svcpoint.manado,Svcpoint,svcpoint.manado@minilico.xyz,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+handoko.suwadi,Handoko,handoko.suwadi@traknus.co.id,"OU=Traknus CRM Jakarta,DC=minilico,DC=xyz",Password123,@minilico.xyz
+ossadmin,Oss,ossadmin@minilico.xyz,"OU=Traknus CRM Jakarta,DC=minilico,DC=xyz",Password123,@minilico.xyz
+reviewar.service,Review Ar,reviewar.service@minilico.xyz,"OU=AG-IT,OU=Vendor User,DC=minilico,DC=xyz",Password123,@minilico.xyz
+martua.agustinus,Martua,martua.agustinus@minilico.xyz,"OU=Traknus CRM Jakarta,DC=minilico,DC=xyz",Password123,@minilico.xyz
+andrey.rusli,Andrey,andrey.rusli@traknus.co.id,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+henry.panjaitan,Henry,henry.panjaitan@traknus.co.id,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+eko.wasito,Eko,eko.wasito@traknus.co.id,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+sri.mahendra,Sri,sri.mahendra@traknus.co.id,"OU=AG-IT,OU=Vendor User,DC=minilico,DC=xyz",Password123,@minilico.xyz
+addy.kusumah,Addy,addy.kusumah@traknus.co.id,"OU=Makassar,DC=minilico,DC=xyz",Password123,@minilico.xyz
+iqbal.kurniawan,Iqbal,iqbal.kurniawan@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+andi.sumirat,Andi,andi.sumirat@minilico.xyz,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+mokhamad.mauludin,Mokhamad,mokhamad.mauludin@traknus.co.id,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+masykur.haryadi,Masykur,masykur.haryadi@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+ferlly.boor,Ferlly,ferlly.boor@minilico.xyz,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+supriyadi.supri,Supriyadi,supriyadi.supri@traknus.co.id,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+carmila.sihombing,Carmila,carmila.sihombing@traknus.co.id,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admsvc.blg,Administrasi,admsvc.blg@minilico.xyz,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+mekanik.blg,Mekanik,mekanik.blg@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+elwin.handika,Elwin,elwin.handika@minilico.xyz,"OU=Padang,DC=minilico,DC=xyz",Password123,@minilico.xyz
+dwi.septari,Dwi,dwi.septari@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+robinson.ps,Robinson,robinson.ps@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+muhammad.mansyur,Muhammad,muhammad.mansyur@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+aris.daryanto,Aris,aris.daryanto@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+suharnik.reza,Suharnik,suharnik.reza@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+agus.purnomo,Agus,agus.purnomo@minilico.xyz,"OU=Palembang,DC=minilico,DC=xyz",Password123,@minilico.xyz
+afin.wibowo,Afin,afin.wibowo@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+tony.firmansyah,Tony,tony.firmansyah@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admprodsupport.mdn,Adm,admprodsupport.mdn@minilico.xyz,"OU=Surabaya,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admsvc.mdn,Adm,admsvc.mdn@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+rojak.jak,Rojak,rojak.jak@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+mekanik.mdn,Mekanik,mekanik.mdn@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admmkt.mdn,Adm,admmkt.mdn@minilico.xyz,"OU=BandarLampung,DC=minilico,DC=xyz",Password123,@minilico.xyz
+elvida.hasibuan,Bina Elvida,elvida.hasibuan@minilico.xyz,"OU=BandarLampung,DC=minilico,DC=xyz",Password123,@minilico.xyz
+yosra.putra,Yosra,yosra.putra@minilico.xyz,"OU=BandarLampung,DC=minilico,DC=xyz",Password123,@minilico.xyz
+service.bjm,Service,service.bjm@minilico.xyz,"OU=Medan,DC=minilico,DC=xyz",Password123,@minilico.xyz
+relismawati.relis,Relismawati,relismawati.relis@minilico.xyz,"OU=Samarinda,DC=minilico,DC=xyz",Password123,@minilico.xyz
+ronny.ferdian,Ronny,ronny.ferdian@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+jamidah.ijam,Jamidah,jamidah.ijam@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+ono.suryono,Ono,ono.suryono@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+rinawati.arisani,Rinawati,rinawati.arisani@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+sisilia.ariyanti,Sisilia,sisilia.ariyanti@traknus.co.id,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+deswaty.fr,Deswaty,deswaty.fr@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+rohmadi.roh,Rohmadi,rohmadi.roh@traknus.co.id,"OU=Medan,DC=minilico,DC=xyz",Password123,@minilico.xyz
+anita.suzie,Anita,anita.suzie@minilico.xyz,"OU=Medan,DC=minilico,DC=xyz",Password123,@minilico.xyz
+novita.duha,Novita,novita.duha@minilico.xyz,"OU=Medan,DC=minilico,DC=xyz",Password123,@minilico.xyz
+counterparts2.smd,Counter,counterparts2.smd@minilico.xyz,"OU=Medan,DC=minilico,DC=xyz",Password123,@minilico.xyz
+counter.mks,Counter,counter.mks@minilico.xyz,"OU=Medan,DC=minilico,DC=xyz",Password123,@minilico.xyz
+counter.bdg,Counter,counter.bdg@minilico.xyz,"OU=Medan,DC=minilico,DC=xyz",Password123,@minilico.xyz
+reni.indrawati,Reni,reni.indrawati@minilico.xyz,"OU=Medan,DC=minilico,DC=xyz",Password123,@minilico.xyz
+guntur.soekarno,Guntur,guntur.soekarno@minilico.xyz,"OU=Banjarmasin,DC=minilico,DC=xyz",Password123,@minilico.xyz
+fitriyani.kaluna,Fitriyani,fitriyani.kaluna@minilico.xyz,"OU=Banjarmasin,DC=minilico,DC=xyz",Password123,@minilico.xyz
+parmono.setiawan,Parmono,parmono.setiawan@traknus.co.id,"OU=Banjarmasin,DC=minilico,DC=xyz",Password123,@minilico.xyz
+tri.mulyono,Tri,tri.mulyono@traknus.co.id,"OU=Banjarmasin,DC=minilico,DC=xyz",Password123,@minilico.xyz
+khairil.rajab,Khairil,khairil.rajab@traknus.co.id,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+agung.nugroho,Agung,agung.nugroho@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+anhar.mujri,Anhar,anhar.mujri@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+iman.nurcahyo,Iman,iman.nurcahyo@traknus.co.id,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+ramsa.damanik,Ramsa,ramsa.damanik@minilico.xyz,"OU=PDCA & ISO,OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+ariyanto.ari,Ariyanto,ariyanto.ari@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+sudarso.darso,Sudarso,sudarso.darso@minilico.xyz,"OU=Padang,DC=minilico,DC=xyz",Password123,@minilico.xyz
+herry.purnomo,Herry,herry.purnomo@minilico.xyz,"OU=Samarinda,DC=minilico,DC=xyz",Password123,@minilico.xyz
+workshop,Workshop Jkt,workshop@minilico.xyz,"OU=Makassar,DC=minilico,DC=xyz",Password123,@minilico.xyz
+ahmad.zudi,Ahmad,ahmad.zudi@minilico.xyz,"OU=Bandung,DC=minilico,DC=xyz",Password123,@minilico.xyz
+erman.kristiawan,Erman,erman.kristiawan@minilico.xyz,"OU=Jambi,DC=minilico,DC=xyz",Password123,@minilico.xyz
+darno.darno,Darno,darno.darno@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+haviez.pratama,Haviez,haviez.pratama@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+florentina.yovita,Florentina,florentina.yovita@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+anggun.mugiadi,Anggun,anggun.mugiadi@traknus.co.id,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+dwi.novayanti,Dwi,dwi.novayanti@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+bambang.hendrajaya,Bambang,bambang.hendrajaya@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admmsd.jkt,Adm,admmsd.jkt@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+eka.nuryanti,Eka,eka.nuryanti@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+jeanne.yuliana,Jeanne,jeanne.yuliana@minilico.xyz,"OU=Palembang,DC=minilico,DC=xyz",Password123,@minilico.xyz
+ata.susanto,Ata,ata.susanto@minilico.xyz,"OU=Palembang,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admsvc.jkt,Adm Svc,admsvc.jkt@minilico.xyz,"OU=Palembang,DC=minilico,DC=xyz",Password123,@minilico.xyz
+whsrtl.jkt,Warehouse Rental,whsrtl.jkt@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+chandra.novianto,Chandra,chandra.novianto@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+whs.jyp,Warehouse,whs.jyp@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+ahmad.fadli,Ahmad,ahmad.fadli@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+aditia.kurniawan,Aditia,aditia.kurniawan@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admgc.jkt,Adm Gc,admgc.jkt@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+handi.wibowo,Handi,handi.wibowo@traknus.co.id,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+femmy.rahmadianti,Femmy,femmy.rahmadianti@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+rafikah.faturahman,Rafikah,rafikah.faturahman@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+suhartatik.tatik,Suhartatik,suhartatik.tatik@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+ike.sartika,Ike,ike.sartika@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+herlina.djamilah,Herlina,herlina.djamilah@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admsvc.mks,Adm Svc,admsvc.mks@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+muhammad.singkang,Muhammad,muhammad.singkang@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+warehouse.mks,Warehouse,warehouse.mks@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+miseri.waton,Miseri,miseri.waton@minilico.xyz,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+santosaning.pribadi,Santosaning,santosaning.pribadi@minilico.xyz,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admrtl.jkt,Adm Rental,admrtl.jkt@minilico.xyz,"OU=Jayapura,DC=minilico,DC=xyz",Password123,@minilico.xyz
+ahmad.hanafiah,Ahmad,ahmad.hanafiah@minilico.xyz,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+harries.zulfikar,Harries,harries.zulfikar@minilico.xyz,"OU=Samarinda,DC=minilico,DC=xyz",Password123,@minilico.xyz
+anang.ardiansyah,Anang,anang.ardiansyah@minilico.xyz,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+raka.brahmantya,Raka Gigih,raka.brahmantya@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+muchammad.imron,Muchammad,muchammad.imron@minilico.xyz,"OU=Padang,DC=minilico,DC=xyz",Password123,@minilico.xyz
+bernat.naiborhu,Bernat,bernat.naiborhu@minilico.xyz,"OU=Makassar,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admsvc02.pkb,Admsvc02,admsvc02.pkb@minilico.xyz,"OU=Samarinda,DC=minilico,DC=xyz",Password123,@minilico.xyz
+mekanik.pkb,Mekanik,mekanik.pkb@minilico.xyz,"OU=Pekanbaru,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admadh.pkb,Admadh,admadh.pkb@minilico.xyz,"OU=Pontianak,DC=minilico,DC=xyz",Password123,@minilico.xyz
+hady.sudharsono,Hady,hady.sudharsono@minilico.xyz,"OU=Makassar,DC=minilico,DC=xyz",Password123,@minilico.xyz
+maryono.maryono,Maryono,maryono.maryono@minilico.xyz,"OU=Makassar,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admsvc.pkb,Admsvc,admsvc.pkb@minilico.xyz,"OU=Makassar,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admpart.pkb,Admpart,admpart.pkb@minilico.xyz,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admsvc01.smp,Admsvc01,admsvc01.smp@minilico.xyz,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+ryan.hidayat,Ryan,ryan.hidayat@minilico.xyz,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+mekanik.smp,Mekanik,mekanik.smp@minilico.xyz,"OU=Palembang,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admsvc02.smp,Adm,admsvc02.smp@minilico.xyz,"OU=Surabaya,DC=minilico,DC=xyz",Password123,@minilico.xyz
+totok.budiarto,Totok,totok.budiarto@minilico.xyz,"OU=Surabaya,DC=minilico,DC=xyz",Password123,@minilico.xyz
+soni.sugiharto,Soni,soni.sugiharto@minilico.xyz,"OU=Surabaya,DC=minilico,DC=xyz",Password123,@minilico.xyz
+lintang.sakti,Lintang,lintang.sakti@minilico.xyz,"OU=Surabaya,DC=minilico,DC=xyz",Password123,@minilico.xyz
+muhammad.aziz,Muhammad,muhammad.aziz@minilico.xyz,"OU=Pekanbaru,DC=minilico,DC=xyz",Password123,@minilico.xyz
+argo.gumilang,Argo,argo.gumilang@minilico.xyz,"OU=Pekanbaru,DC=minilico,DC=xyz",Password123,@minilico.xyz
+fabry.ridwananto,Fabry,fabry.ridwananto@minilico.xyz,"OU=Pekanbaru,DC=minilico,DC=xyz",Password123,@minilico.xyz
+mekanik.pdg,Mekanik,mekanik.pdg@minilico.xyz,"OU=Pekanbaru,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admsvc.pdg,Adm Svc,admsvc.pdg@minilico.xyz,"OU=Pekanbaru,DC=minilico,DC=xyz",Password123,@minilico.xyz
+resihan.gusman,Resihan,resihan.gusman@minilico.xyz,"OU=Pekanbaru,DC=minilico,DC=xyz",Password123,@minilico.xyz
+wisnu.setiawan,Wisnu,wisnu.setiawan@minilico.xyz,"OU=Pekanbaru,DC=minilico,DC=xyz",Password123,@minilico.xyz
+ridwan.tankiang,Ridwan,ridwan.tankiang@minilico.xyz,"OU=Pekanbaru,DC=minilico,DC=xyz",Password123,@minilico.xyz
+sutrisno.trisno,Sutrisno,sutrisno.trisno@minilico.xyz,"OU=Sampit,DC=minilico,DC=xyz",Password123,@minilico.xyz
+rifyan.faliq,Rifyan,rifyan.faliq@traknus.co.id,"OU=Sampit,DC=minilico,DC=xyz",Password123,@minilico.xyz
+achmad.faisol,Achmad,achmad.faisol@traknus.co.id,"OU=Sampit,DC=minilico,DC=xyz",Password123,@minilico.xyz
+mekanik.mks,Mekanik,mekanik.mks@minilico.xyz,"OU=Sampit,DC=minilico,DC=xyz",Password123,@minilico.xyz
+muhammad.pahlipi,Muhammad Rizal,muhammad.pahlipi@minilico.xyz,"OU=Sampit,DC=minilico,DC=xyz",Password123,@minilico.xyz
+workshop.smd,Workshop,workshop.smd@minilico.xyz,"OU=Bandung,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admsvc.smd,Admsvc,admsvc.smd@minilico.xyz,"OU=Samarinda,DC=minilico,DC=xyz",Password123,@minilico.xyz
+cipto.haryono,Cipto,cipto.haryono@traknus.co.id,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+hendra.saputra,Hendra,hendra.saputra@minilico.xyz,"OU=Semarang,DC=minilico,DC=xyz",Password123,@minilico.xyz
+vincentius.subianto,Vincentius,vincentius.subianto@traknus.co.id,"OU=BandarLampung,DC=minilico,DC=xyz",Password123,@minilico.xyz
+zulkifli.djohan,Zulkifli,zulkifli.djohan@minilico.xyz,"OU=Padang,DC=minilico,DC=xyz",Password123,@minilico.xyz
+hadi.prayitno,Hadi,hadi.prayitno@minilico.xyz,"OU=Padang,DC=minilico,DC=xyz",Password123,@minilico.xyz
+nico.sitorus,Nico,nico.sitorus@traknus.co.id,"OU=Padang,DC=minilico,DC=xyz",Password123,@minilico.xyz
+bogi.pancoro,Bogi,bogi.pancoro@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+arief.sugijanto,Arief,arief.sugijanto@traknus.co.id,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+febrico.handra,Febrico,febrico.handra@traknus.co.id,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+miftahussurur.busro,Miftahussurur,miftahussurur.busro@minilico.xyz,"OU=Banjarmasin,DC=minilico,DC=xyz",Password123,@minilico.xyz
+sugiarto.saputro,Sugiarto,sugiarto.saputro@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admsvc.smg,Adm,admsvc.smg@minilico.xyz,"OU=Makassar,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admprodsupport.smd,Admpart,admprodsupport.smd@minilico.xyz,"OU=Banjarmasin,DC=minilico,DC=xyz",Password123,@minilico.xyz
+mekanik.sby,Mekanik,mekanik.sby@minilico.xyz,"OU=Samarinda,DC=minilico,DC=xyz",Password123,@minilico.xyz
+workshop.bjm,Workshop,workshop.bjm@minilico.xyz,"OU=Samarinda,DC=minilico,DC=xyz",Password123,@minilico.xyz
+service.batam,Service,service.batam@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+febri.nugroho,Febri Sulistio,febri.nugroho@traknus.co.id,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+pungky.indra,Pungky,pungky.indra@traknus.co.id,"OU=Sampit,DC=minilico,DC=xyz",Password123,@minilico.xyz
+service.minas,Service,service.minas@minilico.xyz,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+sukimi.thamrin,Sukimi,sukimi.thamrin@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+cecep.achmad,Cecep,cecep.achmad@minilico.xyz,"OU=Padang,DC=minilico,DC=xyz",Password123,@minilico.xyz
+evi.kusniawati,Evi,evi.kusniawati@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admsvc.jmb,Admsvc,admsvc.jmb@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+bambang.edi,Bambang,bambang.edi@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+achmad.suhendar,Achmad,achmad.suhendar@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admsvc02.ptk,Adm Svc-02 Ptk,admsvc02.ptk@minilico.xyz,"OU=Surabaya,DC=minilico,DC=xyz",Password123,@minilico.xyz
+hendra.sihombing,Hendra,hendra.sihombing@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+muhamad.perdana,Muhamad,muhamad.perdana@minilico.xyz,"OU=Semarang,DC=minilico,DC=xyz",Password123,@minilico.xyz
+henky.sutanto,Henky,henky.sutanto@minilico.xyz,"OU=Samarinda,DC=minilico,DC=xyz",Password123,@minilico.xyz
+hadi.isnandar,Hadi,hadi.isnandar@minilico.xyz,"OU=Surabaya,DC=minilico,DC=xyz",Password123,@minilico.xyz
+mekanik.jkt,Mekanik,mekanik.jkt@minilico.xyz,"OU=Banjarmasin,DC=minilico,DC=xyz",Password123,@minilico.xyz
+tedi.rachman,Tedi,tedi.rachman@minilico.xyz,"OU=Service Point,DC=minilico,DC=xyz",Password123,@minilico.xyz
+aditya.purnomo,Aditya,aditya.purnomo@traknus.co.id,"OU=Surabaya,DC=minilico,DC=xyz",Password123,@minilico.xyz
+nizami.effendi,Nizami,nizami.effendi@minilico.xyz,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+offi.ckarnando,Offi,offi.ckarnando@minilico.xyz,"OU=Service Point,DC=minilico,DC=xyz",Password123,@minilico.xyz
+engkus.hermansyah,Engkus,engkus.hermansyah@minilico.xyz,"OU=Pekanbaru,DC=minilico,DC=xyz",Password123,@minilico.xyz
+ariyanta.saputra,Ariyanta,ariyanta.saputra@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+workshop.plb,Workshop,workshop.plb@minilico.xyz,"OU=Bandung,DC=minilico,DC=xyz",Password123,@minilico.xyz
+ramadhaniati.rahma,Ramadhaniati,ramadhaniati.rahma@minilico.xyz,"OU=Jambi,DC=minilico,DC=xyz",Password123,@minilico.xyz
+hris,Hris,hris@minilico.xyz,"OU=Samarinda,DC=minilico,DC=xyz",Password123,@minilico.xyz
+nyoman.yani,Nyoman,nyoman.yani@traknus.co.id,"OU=Samarinda,DC=minilico,DC=xyz",Password123,@minilico.xyz
+yomi.fernando,Yomi,yomi.fernando@minilico.xyz,"OU=Pontianak,DC=minilico,DC=xyz",Password123,@minilico.xyz
+adhitya.chandra,Adhitya,adhitya.chandra@minilico.xyz,"OU=Samarinda,DC=minilico,DC=xyz",Password123,@minilico.xyz
+alprima.ramdhana,Alprima,alprima.ramdhana@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+muhamad.ferdiansyah,Muhamad,muhamad.ferdiansyah@minilico.xyz,"OU=Pekanbaru,DC=minilico,DC=xyz",Password123,@minilico.xyz
+kristianto.wibowo,Kristianto,kristianto.wibowo@minilico.xyz,"OU=Sampit,DC=minilico,DC=xyz",Password123,@minilico.xyz
+wony.buwana,Wony Andika,wony.buwana@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+deni.supriatna,Deni,deni.supriatna@minilico.xyz,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+endro.setyono,Endro,endro.setyono@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+reza.rahmansyah,Reza Andrey,reza.rahmansyah@minilico.xyz,"OU=Medan,DC=minilico,DC=xyz",Password123,@minilico.xyz
+teguh.santoso,Teguh,teguh.santoso@minilico.xyz,"OU=Jambi,DC=minilico,DC=xyz",Password123,@minilico.xyz
+bagus.nugroho,Bagus,bagus.nugroho@minilico.xyz,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+krisnu.lukita,Krisnu,krisnu.lukita@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+recruitment,Recruitment,recruitment@minilico.xyz,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+suhariyono.sangkon,Suhariyono,suhariyono.sangkon@minilico.xyz,"OU=Palembang,DC=minilico,DC=xyz",Password123,@minilico.xyz
+rifki.maulana,Rifki Sani,rifki.maulana@minilico.xyz,"OU=Sampit,DC=minilico,DC=xyz",Password123,@minilico.xyz
+muhammad.ihsan,Muhammad,muhammad.ihsan@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+yudha.sinaga,Yudha,yudha.sinaga@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+rista.pramudianto,Rista,rista.pramudianto@minilico.xyz,"OU=Pekanbaru,DC=minilico,DC=xyz",Password123,@minilico.xyz
+ricky.rinaldi,Ricky,ricky.rinaldi@minilico.xyz,"OU=Samarinda,DC=minilico,DC=xyz",Password123,@minilico.xyz
+gusti.hardiansyah,Gusti,gusti.hardiansyah@minilico.xyz,"OU=Pontianak,DC=minilico,DC=xyz",Password123,@minilico.xyz
+irfak.romadhon,Irfak,irfak.romadhon@traknus.co.id,"OU=Palembang,DC=minilico,DC=xyz",Password123,@minilico.xyz
+bagus.kurniawan,Bagus,bagus.kurniawan@minilico.xyz,"OU=Sampit,DC=minilico,DC=xyz",Password123,@minilico.xyz
+febrialdy.suhairi,Febrialdy,febrialdy.suhairi@minilico.xyz,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+wisnu.nugroho,Wisnu,wisnu.nugroho@minilico.xyz,"OU=Palembang,DC=minilico,DC=xyz",Password123,@minilico.xyz
+svcwarranty.jkt,Svc,svcwarranty.jkt@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+svcpowercomp.jkt,Svc,svcpowercomp.jkt@minilico.xyz,"OU=Surabaya,DC=minilico,DC=xyz",Password123,@minilico.xyz
+prasetyo.hadi,Prasetyo,prasetyo.hadi@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+svcpowergenset.jkt,Svc,svcpowergenset.jkt@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admsvc01.ptk,Adm Svc-01 Ptk,admsvc01.ptk@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+afif.fahmi,Afif,afif.fahmi@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+agung.maulana,Agung,agung.maulana@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+whs.blg,Warehouse,whs.blg@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+tri.setiawan,Tri,tri.setiawan@minilico.xyz,"OU=Bandung,DC=minilico,DC=xyz",Password123,@minilico.xyz
+adi.nugraha,Adi Putra,adi.nugraha@traknus.co.id,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+ari.wibowo,Ari,ari.wibowo@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+muhammad.sipahutar,Muhammad,muhammad.sipahutar@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admsvc.bjm,Adm Svc,admsvc.bjm@minilico.xyz,"OU=Surabaya,DC=minilico,DC=xyz",Password123,@minilico.xyz
+thathit.pamungkas,Thathit,thathit.pamungkas@traknus.co.id,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+counterparts.smd,Counter Parts,counterparts.smd@minilico.xyz,"OU=Makassar,DC=minilico,DC=xyz",Password123,@minilico.xyz
+muhammad.aryansyah,Muhammad,muhammad.aryansyah@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+mknmhd.jkt,Service Mkn,mknmhd.jkt@minilico.xyz,"OU=Samarinda,DC=minilico,DC=xyz",Password123,@minilico.xyz
+svcmhd.jkt,Service Mhd,svcmhd.jkt@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+antonius.cahyadi,Antonius,antonius.cahyadi@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+servicetech.jkt,Service,servicetech.jkt@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+muhamad.sina,Muhamad,muhamad.sina@traknus.co.id,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+kurnia.utomo,Kurnia,kurnia.utomo@minilico.xyz,"OU=Pontianak,DC=minilico,DC=xyz",Password123,@minilico.xyz
+anda.zuanda,Anda,anda.zuanda@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+warno.manyol,Warno,warno.manyol@minilico.xyz,"OU=Pontianak,DC=minilico,DC=xyz",Password123,@minilico.xyz
+wahyu.raharjo,Wahyu,wahyu.raharjo@minilico.xyz,"OU=BandarLampung,DC=minilico,DC=xyz",Password123,@minilico.xyz
+front.office,Front,front.office@minilico.xyz,"OU=Padang,DC=minilico,DC=xyz",Password123,@minilico.xyz
+pic.security,Pic,pic.security@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+pendi.setyawan,Pendi,pendi.setyawan@traknus.co.id,"OU=Medan,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admga.jkt,Adm Ga,admga.jkt@minilico.xyz,"OU=Medan,DC=minilico,DC=xyz",Password123,@minilico.xyz
+adm.ehs,Adm,adm.ehs@minilico.xyz,"OU=Banjarmasin,DC=minilico,DC=xyz",Password123,@minilico.xyz
+setia.wandi,Setia,setia.wandi@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+irfan.triyanto,Irfan,irfan.triyanto@minilico.xyz,"OU=Samarinda,DC=minilico,DC=xyz",Password123,@minilico.xyz
+indra.thamrin,Indra,indra.thamrin@minilico.xyz,"OU=Padang,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admadh.smd,Adm,admadh.smd@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+marini.fisellia,Marini,marini.fisellia@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+mohammad.subiyanto,Mohammad,mohammad.subiyanto@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+testbench.jkt,Testbench,testbench.jkt@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+abdul.afu,Abdul,abdul.afu@minilico.xyz,"OU=PDCA & ISO,OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+whs.ptk,Warehouse,whs.ptk@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admmkt.sby,Adm,admmkt.sby@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+erfan.chudhori,Erfan,erfan.chudhori@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+dekris.darutama,Dekris,dekris.darutama@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admsvc.bdg,Adm Svc,admsvc.bdg@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admsvc02.smd,Adm Svc-02,admsvc02.smd@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+parji.wibowo,Parji,parji.wibowo@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+svcpoint.eastmhd,Service Point,svcpoint.eastmhd@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+knowledge.management,Knowledge,knowledge.management@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+mekanik.bdg,Mekanik,mekanik.bdg@minilico.xyz,"OU=Pekanbaru,DC=minilico,DC=xyz",Password123,@minilico.xyz
+taxation.tn,Taxation,taxation.tn@minilico.xyz,"OU=Pekanbaru,DC=minilico,DC=xyz",Password123,@minilico.xyz
+taxation.shn,Taxation,taxation.shn@minilico.xyz,"OU=Jayapura,DC=minilico,DC=xyz",Password123,@minilico.xyz
+svcpoint.berau,Service Point,svcpoint.berau@minilico.xyz,"OU=Samarinda,DC=minilico,DC=xyz",Password123,@minilico.xyz
+kwitansi,Kwitansi,kwitansi@minilico.xyz,"OU=Jambi,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admwhs.smd,Adm,admwhs.smd@minilico.xyz,"OU=Makassar,DC=minilico,DC=xyz",Password123,@minilico.xyz
+svcpoint.centralmhd,Service Point,svcpoint.centralmhd@minilico.xyz,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+rapid,Rapid - Traknus Core Value,rapid@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+koperasi,Koperasi,koperasi@minilico.xyz,"OU=Pontianak,DC=minilico,DC=xyz",Password123,@minilico.xyz
+traknus,Traknus,traknus@minilico.xyz,"OU=Surabaya,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admprodsupport.pkb,Adm Prod,admprodsupport.pkb@minilico.xyz,"OU=Surabaya,DC=minilico,DC=xyz",Password123,@minilico.xyz
+mekanik.samarinda,Mekanik,mekanik.samarinda@minilico.xyz,"OU=Surabaya,DC=minilico,DC=xyz",Password123,@minilico.xyz
+svcpoint.sangata,Service Point,svcpoint.sangata@minilico.xyz,"OU=Bandung,DC=minilico,DC=xyz",Password123,@minilico.xyz
+johanes.sinto,Johanes,johanes.sinto@minilico.xyz,"OU=Samarinda,DC=minilico,DC=xyz",Password123,@minilico.xyz
+muhammad.rusdi,Muhammad,muhammad.rusdi@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+andrew.nofenesia,Andrew,andrew.nofenesia@minilico.xyz,"OU=Service Point,DC=minilico,DC=xyz",Password123,@minilico.xyz
+arifian.firdaus,Arifian,arifian.firdaus@traknus.co.id,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+aditya.junaidi,Aditya,aditya.junaidi@minilico.xyz,"OU=Bandung,DC=minilico,DC=xyz",Password123,@minilico.xyz
+sandi.agusta,Sandi,sandi.agusta@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+gerindra.setiawan,Gerindra,gerindra.setiawan@minilico.xyz,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+benny.efrizon,Benny,benny.efrizon@minilico.xyz,"OU=Service Point,DC=minilico,DC=xyz",Password123,@minilico.xyz
+fuad.insan,Fuad,fuad.insan@traknus.co.id,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+danar.septiarno,Danar,danar.septiarno@minilico.xyz,"OU=Samarinda,DC=minilico,DC=xyz",Password123,@minilico.xyz
+ega.yudistira,Ega,ega.yudistira@minilico.xyz,"OU=Service Point,DC=minilico,DC=xyz",Password123,@minilico.xyz
+enrile.rizal,Enrile,enrile.rizal@traknus.co.id,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+ade.pranayuda,Ade,ade.pranayuda@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+muhamad.muttaqi,Muhamad,muhamad.muttaqi@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+kasir.palembang,Ria,ria.agustina@minilico.xyz,"OU=Pekanbaru,DC=minilico,DC=xyz",Password123,@minilico.xyz
+agus.setiawan,Agus,agus.setiawan@minilico.xyz,"OU=Samarinda,DC=minilico,DC=xyz",Password123,@minilico.xyz
+shn.rent,Shn,shn.rent@minilico.xyz,"OU=Service Point,DC=minilico,DC=xyz",Password123,@minilico.xyz
+trs.testing,Trs,trs.testing@minilico.xyz,"OU=Medan,DC=minilico,DC=xyz",Password123,@minilico.xyz
+hendra.purnama,Hendra,hendra.purnama@minilico.xyz,"OU=Samarinda,DC=minilico,DC=xyz",Password123,@minilico.xyz
+ester.tambun,Ester,ester.tambun@minilico.xyz,"OU=Sampit,DC=minilico,DC=xyz",Password123,@minilico.xyz
+roy.asmoro,Roy,roy.asmoro@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+yohanes.santoso,Yohanes,yohanes.santoso@minilico.xyz,"OU=Makassar,DC=minilico,DC=xyz",Password123,@minilico.xyz
+warehouse.jakarta,Warehouse,warehouse.jakarta@minilico.xyz,"OU=Pekanbaru,DC=minilico,DC=xyz",Password123,@minilico.xyz
+rakhmanto.adhianto,Rakhmanto,rakhmanto.adhianto@traknus.co.id,"OU=Samarinda,DC=minilico,DC=xyz",Password123,@minilico.xyz
+pamiasto.purwono,Pamiasto,pamiasto.purwono@minilico.xyz,"OU=Padang,DC=minilico,DC=xyz",Password123,@minilico.xyz
+agustin.panggabean,Agustin,agustin.panggabean@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+pamrih.santoso,Pamrih,pamrih.santoso@minilico.xyz,"OU=Bandung,DC=minilico,DC=xyz",Password123,@minilico.xyz
+diah.wulandari,Diah,diah.wulandari@minilico.xyz,"OU=Semarang,DC=minilico,DC=xyz",Password123,@minilico.xyz
+dina.lestari,Dina,dina.lestari@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+budi.prayitno,Budi,budi.prayitno@minilico.xyz,"OU=Pontianak,DC=minilico,DC=xyz",Password123,@minilico.xyz
+toolkeeper_001,Toolkeeper,toolkeeper_001@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+toolkeeper_002,Toolkeeper,toolkeeper_002@minilico.xyz,"OU=Palembang,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admin_smt_mhd,Admin Smt Mhd,admin_smt_mhd@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admin-smt-msd,Admin Smt Msd,admin-smt-msd@minilico.xyz,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admin-smt-nmsd,Admin Smt Nmsd,admin-smt-nmsd@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+sdh_jkt_msd,Sdh Jkt Msd,sdh_jkt_msd@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+sdh_jkt_nmsd,Sdh Jkt Nmsd,sdh_jkt_nmsd@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+sdh_smt_msd,Sdh Smt Msd,sdh_smt_msd@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+sdh_smt_nmsd,Sdh Smt Nmsd,sdh_smt_nmsd@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+tool_manager,Tool Manager,tool_manager@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admin_jkt_msd,Admin Jkt Msd,admin_jkt_msd@minilico.xyz,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+rendi.saputra,Rendi,rendi.saputra@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+surya.sihite,Surya,surya.sihite@minilico.xyz,"OU=Samarinda,DC=minilico,DC=xyz",Password123,@minilico.xyz
+testing.uat,Testing,testing.uat@minilico.xyz,"OU=Banjarmasin,DC=minilico,DC=xyz",Password123,@minilico.xyz
+muhammad.fuad,Muhammad,muhammad.fuad@minilico.xyz,"OU=Semarang,DC=minilico,DC=xyz",Password123,@minilico.xyz
+rezza.ikhwansyah,Rezza,rezza.ikhwansyah@minilico.xyz,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+rudi.irawan,Rudi,rudi.irawan@minilico.xyz,"OU=Pekanbaru,DC=minilico,DC=xyz",Password123,@minilico.xyz
+hcis.level3a,Hcis,hcis.level3a@minilico.xyz,"OU=TECTURA,OU=Vendor User,DC=minilico,DC=xyz",Password123,@minilico.xyz
+hcis.level3c,Hcis,hcis.level3c@minilico.xyz,"OU=TECTURA,OU=Vendor User,DC=minilico,DC=xyz",Password123,@minilico.xyz
+hcis.level2a,Hcis,hcis.level2a@minilico.xyz,"OU=TECTURA,OU=Vendor User,DC=minilico,DC=xyz",Password123,@minilico.xyz
+hcis.level2c,Hcis,hcis.level2c@minilico.xyz,"OU=TECTURA,OU=Vendor User,DC=minilico,DC=xyz",Password123,@minilico.xyz
+hcis.level3d,Hcis,hcis.level3d@minilico.xyz,"OU=TECTURA,OU=Vendor User,DC=minilico,DC=xyz",Password123,@minilico.xyz
+hcis.level3b,Hcis,hcis.level3b@minilico.xyz,"OU=TECTURA,OU=Vendor User,DC=minilico,DC=xyz",Password123,@minilico.xyz
+hcis.level2b,Hcis,hcis.level2b@minilico.xyz,"OU=TECTURA,OU=Vendor User,DC=minilico,DC=xyz",Password123,@minilico.xyz
+hcis.level1,Hcis,hcis.level1@minilico.xyz,"OU=TECTURA,OU=Vendor User,DC=minilico,DC=xyz",Password123,@minilico.xyz
+andri.surawan,Andri,andri.surawan@minilico.xyz,"OU=TECTURA,OU=Vendor User,DC=minilico,DC=xyz",Password123,@minilico.xyz
+traknus.license,Traknus,traknus.license@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+ahmad.fauzi,Ahmad,ahmad.fauzi@traknus.co.id,"OU=TECTURA,OU=Vendor User,DC=minilico,DC=xyz",Password123,@minilico.xyz
+wawan.suwandi,Wawan,wawan.suwandi@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+wafda.zulmardia,Wafda,wafda.zulmardia@minilico.xyz,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+heriadi.kurniawan,Heriadi,heriadi.kurniawan@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+faris.hakim,Faris Fadhilah,faris.hakim@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+muhammad.ramdhan,Muhammad,muhammad.ramdhan@minilico.xyz,"OU=Semarang,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admin.hcis,Admin,admin.hcis@minilico.xyz,"OU=Pekanbaru,DC=minilico,DC=xyz",Password123,@minilico.xyz
+shn,Shn,shn@minilico.xyz,"OU=Pontianak,DC=minilico,DC=xyz",Password123,@minilico.xyz
+sdh_smt_mhd,Sdh Smt Mhd,sdh_smt_mhd@minilico.xyz,"OU=HRIS,OU=Vendor User,DC=minilico,DC=xyz",Password123,@minilico.xyz
+sdh_jkt_mhd,Sdh Jkt Mhd,sdh_jkt_mhd@minilico.xyz,"OU=HRIS,OU=Vendor User,DC=minilico,DC=xyz",Password123,@minilico.xyz
+reza.kusuma,Reza,reza.kusuma@minilico.xyz,"OU=HRIS,OU=Vendor User,DC=minilico,DC=xyz",Password123,@minilico.xyz
+abdullah.azzam,Abdullah,abdullah.azzam@minilico.xyz,"OU=HRIS,OU=Vendor User,DC=minilico,DC=xyz",Password123,@minilico.xyz
+muhammad.ghafarry,Muhammad,muhammad.ghafarry@minilico.xyz,"OU=HRIS,OU=Vendor User,DC=minilico,DC=xyz",Password123,@minilico.xyz
+workshop.jayapura,Workshop,workshop.jayapura@minilico.xyz,"OU=HRIS,OU=Vendor User,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admin_jkt_mhd,Admin Jkt Mhd,admin_jkt_mhd@minilico.xyz,"OU=HRIS,OU=Vendor User,DC=minilico,DC=xyz",Password123,@minilico.xyz
+erick.ramadhan,Muhamad Erick,erick.ramadhan@minilico.xyz,"OU=HRIS,OU=Vendor User,DC=minilico,DC=xyz",Password123,@minilico.xyz
+developer02.trs,Developer02,developer02.trs@minilico.xyz,"OU=Pontianak,DC=minilico,DC=xyz",Password123,@minilico.xyz
+developer03.trs,Developer03,developer03.trs@minilico.xyz,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+cs_002,Cs 002,cs_002@minilico.xyz,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+cs_001,Cs 001,cs_001@minilico.xyz,"OU=Banjarmasin,DC=minilico,DC=xyz",Password123,@minilico.xyz
+hega.sulistyo,Hega,hega.sulistyo@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+agit,Agit,agit@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+tes,Tes,tes@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+test.agit2,Test Agit2,test.agit2@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+jupri.simangunsong,Jupri,jupri.simangunsong@minilico.xyz,"OU=Banjarmasin,DC=minilico,DC=xyz",Password123,@minilico.xyz
+rezha.pratama,Rezha,rezha.pratama@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+svcpoint.palu,Svcpoint,svcpoint.palu@minilico.xyz,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+info.website,Info,info.website@minilico.xyz,"OU=TECTURA,OU=Vendor User,DC=minilico,DC=xyz",Password123,@minilico.xyz
+mhd.newsletter,Mhd,mhd.newsletter@minilico.xyz,"OU=TECTURA,OU=Vendor User,DC=minilico,DC=xyz",Password123,@minilico.xyz
+muhammad.solihin,Muhammad,muhammad.solihin@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+mochammad.alfanegita,Mochammad,mochammad.alfanegita@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+windu.prasetio,Windu,windu.prasetio@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+hanggoro.hutomo,Hanggoro,hanggoro.hutomo@minilico.xyz,"OU=Jayapura,DC=minilico,DC=xyz",Password123,@minilico.xyz
+sandi.putro,Sandi Purwiro,sandi.putro@minilico.xyz,"OU=TECTURA,OU=Vendor User,DC=minilico,DC=xyz",Password123,@minilico.xyz
+lutfy.lutfyan,Lutfy,lutfy.lutfyan@minilico.xyz,"OU=Jambi,DC=minilico,DC=xyz",Password123,@minilico.xyz
+kevin.simanjuntak,Kevin,kevin.simanjuntak@minilico.xyz,"OU=Traknus CRM Jakarta,DC=minilico,DC=xyz",Password123,@minilico.xyz
+heri.suprijanto,Heri,heri.suprijanto@minilico.xyz,"OU=Traknus CRM Jakarta,DC=minilico,DC=xyz",Password123,@minilico.xyz
+maulana.imam,Maulana,maulana.imam@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+whs.bjm,Warehouse,whs.bjm@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+selli.putri,Selli,selli.putri@minilico.xyz,"OU=Samarinda,DC=minilico,DC=xyz",Password123,@minilico.xyz
+adminsvc.mhd,Admin Svc,adminsvc.mhd@minilico.xyz,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+rizky.yulianita,Rizky,rizky.yulianita@minilico.xyz,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+sari.fauziah,Sari,sari.fauziah@minilico.xyz,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+reno.novianto,Reno,reno.novianto@minilico.xyz,"OU=Pontianak,DC=minilico,DC=xyz",Password123,@minilico.xyz
+pungkas.rahmanto,Pungkas,pungkas.rahmanto@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+ade.hidayat,Ade Purbo,ade.hidayat@minilico.xyz,"OU=Service Point,DC=minilico,DC=xyz",Password123,@minilico.xyz
+test.agit,Test Agit,test.agit@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+agit.project,Agit,agit.project@traknus.co.id,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+osce_svc,Osce Svc,osce_svc@minilico.xyz,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+rizal.saputra,Rizal Edwin,rizal.saputra@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+david.pratama,David,david.pratama@minilico.xyz,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+aliansi.test,Aliansi,aliansi.test@minilico.xyz,"OU=Banjarmasin,DC=minilico,DC=xyz",Password123,@minilico.xyz
+test.aliansi,Test,test.aliansi@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+brian.razak,Brian,brian.razak@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+rangga.somanagara,Rangga,rangga.somanagara@minilico.xyz,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+helpdesk.trs,Helpdesk,helpdesk.trs@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+yoga.garda,Yoga,yoga.garda@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admin.tmmin,Admin,admin.tmmin@minilico.xyz,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+miftachul.huda,Miftachul,miftachul.huda@minilico.xyz,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+mekanik.jmb,Mekanik,mekanik.jmb@minilico.xyz,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+rahmat.hidayatulloh,Rahmat,rahmat.hidayatulloh@minilico.xyz,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+dwi.rendrahady,Dwi,dwi.rendrahady@minilico.xyz,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+rizky.aulia,Muhammad,rizky.aulia@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+employee.center,Employee Care,employee.center@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+dimas.dwiparona,Dimas Agung,dimas.dwiparona@minilico.xyz,"OU=Banjarmasin,DC=minilico,DC=xyz",Password123,@minilico.xyz
+jonathan.renado,Jonathan,jonathan.renado@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+pfmailboxtn,Pfmailboxtn,pfmailboxtn@traknus.co.id,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+marina.nur,Marina,marina.nur@traknus.co.id,"OU=Sampit,DC=minilico,DC=xyz",Password123,@minilico.xyz
+ahmad.pratama,Ahmad Pilar,ahmad.pratama@minilico.xyz,"OU=Bandung,DC=minilico,DC=xyz",Password123,@minilico.xyz
+faldi.hadyan,Faldi,faldi.hadyan@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+fakhri.ramadhan,Fakhri Rizqullah,fakhri.ramadhan@minilico.xyz,"OU=Pontianak,DC=minilico,DC=xyz",Password123,@minilico.xyz
+fatih.fitrianto,Fatih,fatih.fitrianto@minilico.xyz,"OU=Semarang,DC=minilico,DC=xyz",Password123,@minilico.xyz
+ridwan.gunawan,Ridwan,ridwan.gunawan@minilico.xyz,"OU=AG-IT,OU=Vendor User,DC=minilico,DC=xyz",Password123,@minilico.xyz
+svcmhd.westarea,Svc Mhd,svcmhd.westarea@minilico.xyz,"OU=Office365,DC=minilico,DC=xyz",Password123,@minilico.xyz
+fmc.multistrada,Fmc,fmc.multistrada@minilico.xyz,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+dziqi.kurniawan,Dziqi Hanifulloh,dziqi.kurniawan@minilico.xyz,"OU=Pekanbaru,DC=minilico,DC=xyz",Password123,@minilico.xyz
+lukas.kristianto,Lukas,lukas.kristianto@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+finsha.putra,Finsha,finsha.putra@minilico.xyz,"OU=ALIANSI,OU=Vendor User,DC=minilico,DC=xyz",Password123,@minilico.xyz
+mohammad.riyan,Mohammad,mohammad.riyan@minilico.xyz,"OU=ALIANSI,OU=Vendor User,DC=minilico,DC=xyz",Password123,@minilico.xyz
+andini.karnila,Andini,andini.karnila@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+febby.arifin,Febby,febby.arifin@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+reinhard.fernando,Reinhard,reinhard.fernando@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+reno.aditya,Reno,reno.aditya@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+shiftleader.tmmin,Shift Leader,shiftleader.tmmin@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+hamdi.muzzammil,Hamdi,hamdi.muzzammil@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+titi.nurhayati,Titi,titi.nurhayati@minilico.xyz,"OU=Jambi,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admprodsupport.smp,Adm,admprodsupport.smp@minilico.xyz,"OU=Jambi,DC=minilico,DC=xyz",Password123,@minilico.xyz
+arda.putra,Arda Wiwaha,arda.putra@minilico.xyz,"OU=Medan,DC=minilico,DC=xyz",Password123,@minilico.xyz
+ardiko.pardede,Ardiko,ardiko.pardede@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admprodsupport.bjm,Adm Product Support,admprodsupport.bjm@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+kalvin.irawan,Kalvin Saputra,kalvin.irawan@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+wahyuddin.abdullah,Wahyuddin,wahyuddin.abdullah@minilico.xyz,"OU=Jayapura,DC=minilico,DC=xyz",Password123,@minilico.xyz
+dera.supriyo,Dera Fadhil,dera.supriyo@minilico.xyz,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+shimon.sinaga,Shimon Anterio,shimon.sinaga@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+morrow.sutan,Morrow,morrow.sutan@minilico.xyz,"OU=Sampit,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admprodsupport.mks,Adm Product Support,admprodsupport.mks@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+muhammad.fakhrullah,Muhammad Haris,muhammad.fakhrullah@minilico.xyz,"OU=Palembang,DC=minilico,DC=xyz",Password123,@minilico.xyz
+servicekaizen.staff,Service Kaizen,servicekaizen.staff@minilico.xyz,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+svcpoint.bengkulu,Service Point,svcpoint.bengkulu@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+luky.sunara,Luky,luky.sunara@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+dani.alfaruq,Dani,dani.alfaruq@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+counter.jyp,Counter,counter.jyp@minilico.xyz,"OU=Jayapura,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admsvc.jyp,Adm Svc,admsvc.jyp@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+jovan.putra,Jovan,jovan.putra@minilico.xyz,"OU=Palembang,DC=minilico,DC=xyz",Password123,@minilico.xyz
+muhammad.yusuf,Muhammad,muhammad.yusuf@minilico.xyz,"OU=Samarinda,DC=minilico,DC=xyz",Password123,@minilico.xyz
+davi.apriko,Davi Zahra,davi.apriko@minilico.xyz,"OU=BandarLampung,DC=minilico,DC=xyz",Password123,@minilico.xyz
+donny.hermawan,Donny,donny.hermawan@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+fauzan.widianto,Fauzan,fauzan.widianto@minilico.xyz,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+ardianto.ardi,Ardianto,ardianto.ardi@minilico.xyz,"OU=Samarinda,DC=minilico,DC=xyz",Password123,@minilico.xyz
+robby.afanti,Robby Pati,robby.afanti@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+dealer.mdn,Dealer,dealer.mdn@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+dealer.jkt,Dealer,dealer.jkt@minilico.xyz,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+dealer.bdg,Dealer,dealer.bdg@minilico.xyz,"OU=Sampit,DC=minilico,DC=xyz",Password123,@minilico.xyz
+uio.helpdesk,Uio,uio.helpdesk@minilico.xyz,"OU=BandarLampung,DC=minilico,DC=xyz",Password123,@minilico.xyz
+muhammad.dharmawan,Muhammad,muhammad.dharmawan@minilico.xyz,"OU=Surabaya,DC=minilico,DC=xyz",Password123,@minilico.xyz
+probo.wiratsongko,Probo,probo.wiratsongko@minilico.xyz,"OU=Banjarmasin,DC=minilico,DC=xyz",Password123,@minilico.xyz
+nurliani.kusuma,Nurliani,nurliani.kusuma@minilico.xyz,"OU=Surabaya,DC=minilico,DC=xyz",Password123,@minilico.xyz
+whs.plb,Warehouse,whs.plb@minilico.xyz,"OU=Makassar,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admprodsupport.plb,Adm Product Support,admprodsupport.plb@minilico.xyz,"OU=Samarinda,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admprodsupport.jkt,Adm Product Support,admprodsupport.jkt@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+tandaterima.invoice,Tanda Terima,tandaterima.invoice@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+irfandi.gunawan,Irfandi,irfandi.gunawan@minilico.xyz,"OU=Makassar,DC=minilico,DC=xyz",Password123,@minilico.xyz
+fauzi.prasetyo,Fauzi,fauzi.prasetyo@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+yudha.nugraha,Yudha Hadi,yudha.nugraha@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+marliana.wulansari,Marliana,marliana.wulansari@minilico.xyz,"OU=Padang,DC=minilico,DC=xyz",Password123,@minilico.xyz
+anggalus.jontot,Anggalus,anggalus.jontot@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+adm.tps01,Admin,adm.tps01@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+hendrawan.laksono,Hendrawan Adi,hendrawan.laksono@minilico.xyz,"OU=Jayapura,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admprodsupport.ptk,Adm Product Support,admprodsupport.ptk@minilico.xyz,"OU=Jayapura,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admprodsupport.sby,Adm Product Support,admprodsupport.sby@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+defri.antoni,Defri,defri.antoni@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+advisor.sap,Advisor,advisor.sap@minilico.xyz,"OU=PDCA & ISO,OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+doni.hardian,Doni,doni.hardian@minilico.xyz,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+anisa.fahma,Anisa,anisa.fahma@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+marzha.prakoso,Marzha,marzha.prakoso@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+andreas.nugroho,Andreas,andreas.nugroho@minilico.xyz,"OU=Medan,DC=minilico,DC=xyz",Password123,@minilico.xyz
+farisi.rahman,Farisi,farisi.rahman@minilico.xyz,"OU=Medan,DC=minilico,DC=xyz",Password123,@minilico.xyz
+andre.jasman,Andre,andre.jasman@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+ekon.faizal,Ekon,ekon.faizal@minilico.xyz,"OU=Bandung,DC=minilico,DC=xyz",Password123,@minilico.xyz
+training.crm,Training,training.crm@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+muhammad.putra,Muhammad Shani,muhammad.putra@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+primayoga.hogantara,Primayoga,primayoga.hogantara@minilico.xyz,"OU=Semarang,DC=minilico,DC=xyz",Password123,@minilico.xyz
+kosuke.tokutomi,Kosuke,kosuke.tokutomi@traknus.co.id,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+counter.blg,Counter,counter.blg@minilico.xyz,"OU=Palembang,DC=minilico,DC=xyz",Password123,@minilico.xyz
+kevin.surya,Kevin,kevin.surya@minilico.xyz,"OU=Palembang,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admin.pajak,Admin,admin.pajak@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+rachmad.rizky,Rachmad,rachmad.rizky@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+daniel.sianturi,Daniel,daniel.sianturi@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+hermawan.hadi,Hermawan,hermawan.hadi@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+counter.plb,Counter,counter.plb@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+setyono.mth,Setyono,setyono.mth@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+fajar.pitutur,Fajar Jati,fajar.pitutur@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+adminv.unit,Admin,adminv.unit@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+sadewa.kusuma,Sadewa,sadewa.kusuma@minilico.xyz,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admprodsupport02.jkt,Adm Product,admprodsupport02.jkt@minilico.xyz,"OU=Pontianak,DC=minilico,DC=xyz",Password123,@minilico.xyz
+atsha.favian,Atsha Daryre,atsha.favian@minilico.xyz,"OU=Surabaya,DC=minilico,DC=xyz",Password123,@minilico.xyz
+nico.augusta,Nico,nico.augusta@minilico.xyz,"OU=Pekanbaru,DC=minilico,DC=xyz",Password123,@minilico.xyz
+syavira.aliffia,Syavira Ayu,syavira.aliffia@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+rizki.wibowo,Rizki Suryo,rizki.wibowo@minilico.xyz,"OU=Bandung,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admrtl.supp,Adm,admrtl.supp@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admar2,Adm,admar2@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admar1,Adm,admar1@minilico.xyz,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+tugiono.yono,Tugiono,tugiono.yono@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+septiardhi.pratama,Septiardhi,septiardhi.pratama@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+didi.indratna,Didi,didi.indratna@minilico.xyz,"OU=Jambi,DC=minilico,DC=xyz",Password123,@minilico.xyz
+yosa.hutasoit,Yosa,yosa.hutasoit@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+wahyudi.simba,Wahyudi,wahyudi.simba@minilico.xyz,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+rully.maudry,Rully,rully.maudry@minilico.xyz,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+aldin.ahmad,Aldin,aldin.ahmad@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+muhamad.ariansyah,Muhamad,muhamad.ariansyah@minilico.xyz,"OU=BandarLampung,DC=minilico,DC=xyz",Password123,@minilico.xyz
+fmc.linfoxbof,Site Leader,fmc.linfoxbof@minilico.xyz,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+morsito.mor,Morsito,morsito.mor@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+harijadi.mawardi,Harijadi,harijadi.mawardi@traknus.co.id,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admpart.jkt,Adm Part,admpart.jkt@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+daniel.hermawan,Daniel,daniel.hermawan@traknus.co.id,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admlogistics1,Admin,admlogistics1@minilico.xyz,"OU=Palembang,DC=minilico,DC=xyz",Password123,@minilico.xyz
+abdul.huda,Abdul,abdul.huda@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admlogistics3,Admin,admlogistics3@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admlogistics4,Admin,admlogistics4@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admlogistics2,Admin,admlogistics2@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+vendor.helpdesktn2,Vendor,vendor.helpdesktn2@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+vendor.helpdesktn,Vendor,vendor.helpdesktn@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+whsgc.jkt,Warehouse Gc,whsgc.jkt@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+vendor.helpdesk,Vendor,vendor.helpdesk@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+fmc.mkir,Site Leader,fmc.mkir@minilico.xyz,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+counter.smg,Counter,counter.smg@minilico.xyz,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+fmc.yimm,Site Leader,fmc.yimm@minilico.xyz,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+fmc.linfoxwdc,Agung,fmc.linfoxwdc@minilico.xyz,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+fmc.adm,Site Leader,fmc.adm@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+fmc.ccai,Site Leader,fmc.ccai@minilico.xyz,"OU=Jayapura,DC=minilico,DC=xyz",Password123,@minilico.xyz
+traktornusantara,Traktor,traktornusantara@minilico.xyz,"OU=Pontianak,DC=minilico,DC=xyz",Password123,@minilico.xyz
+malik.aziz,Malik,malik.aziz@minilico.xyz,"OU=Jayapura,DC=minilico,DC=xyz",Password123,@minilico.xyz
+branch.palembang,Branch,branch.palembang@minilico.xyz,"OU=Makassar,DC=minilico,DC=xyz",Password123,@minilico.xyz
+branch.sampit,Branch,branch.sampit@minilico.xyz,"OU=Pekanbaru,DC=minilico,DC=xyz",Password123,@minilico.xyz
+branch.makassar,Branch,branch.makassar@minilico.xyz,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+branch.medan,Branch,branch.medan@minilico.xyz,"OU=Makassar,DC=minilico,DC=xyz",Password123,@minilico.xyz
+branch.pontianak,Branch,branch.pontianak@minilico.xyz,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+branch.samarinda,Branch,branch.samarinda@minilico.xyz,"OU=BandarLampung,DC=minilico,DC=xyz",Password123,@minilico.xyz
+branch.banjarmasin,Branch,branch.banjarmasin@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+branch.jambi,Branch,branch.jambi@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+branch.jayapura,Branch,branch.jayapura@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+branch.bandung,Branch,branch.bandung@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+branch.lampung,Branch,branch.lampung@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+branch.pekanbaru,Branch,branch.pekanbaru@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+branch.padang,Branch,branch.padang@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+contactcenter,Contact,contactcenter@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+alertsap.shn,Alert,alertsap.shn@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+bachtiar.yusuf,Bachtiar,bachtiar.yusuf@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+alexander.raygian,Alexander,alexander.raygian@minilico.xyz,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+cahyaningsih.nadia,Nadia,cahyaningsih.nadia@minilico.xyz,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+harun.latumahina,Harun,harun.latumahina@minilico.xyz,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+riza.sutejo,Riza Arif,riza.sutejo@minilico.xyz,"OU=Semarang,DC=minilico,DC=xyz",Password123,@minilico.xyz
+gita.mariana,Gita,gita.mariana@traknus.co.id,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+alif.kurniawan,Alif,alif.kurniawan@minilico.xyz,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+indrawinarta.sandhi,Indra,indrawinarta.sandhi@minilico.xyz,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+riza.febrini,Riza,riza.febrini@minilico.xyz,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+picaso.bangun,Picaso Markus,picaso.bangun@minilico.xyz,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+ferdinand.widjaja,Ferdinand,ferdinand.widjaja@traknus.co.id,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+khairmyanto.teguh,Teguh,khairmyanto.teguh@minilico.xyz,"OU=PDCA & ISO,OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+mohamad.intan,Mohamad Intan,mohamad.intan@minilico.xyz,"OU=PDCA & ISO,OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+team.marcomm,Intern,team.marcomm@minilico.xyz,"OU=PDCA & ISO,OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+nur.hasiah,Nur,nur.hasiah@minilico.xyz,"OU=PDCA & ISO,OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+adhit.prasetyo,Adhit,adhit.prasetyo@minilico.xyz,"OU=PDCA & ISO,OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+adm.cpho1,Adm,adm.cpho1@minilico.xyz,"OU=PDCA & ISO,OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+radin.noor,Radin,radin.noor@minilico.xyz,"OU=PDCA & ISO,OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+adm01.treasury,Adm,adm01.treasury@minilico.xyz,"OU=PDCA & ISO,OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+aditya.budi,Aditya,aditya.budi@minilico.xyz,"OU=PDCA & ISO,OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+traknuscareer,Traknus,traknuscareer@minilico.xyz,"OU=PDCA & ISO,OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+moch.kholid,Moch,moch.kholid@minilico.xyz,"OU=PDCA & ISO,OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admmarketing.pm01,Adm,admmarketing.pm01@minilico.xyz,"OU=PDCA & ISO,OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+ditha.hadir,Ditha,ditha.hadir@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admin.rental,Admin,admin.rental@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+michael.ericho,Michael,michael.ericho@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+counter.ptk,Counter,counter.ptk@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+branch.surabaya,Branch,branch.surabaya@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+masaki.saimo,Masaki,masaki.saimo@traknus.co.id,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+whs.smd,Warehouse,whs.smd@minilico.xyz,"OU=Jayapura,DC=minilico,DC=xyz",Password123,@minilico.xyz
+ahmad.faiz,Ahmad,ahmad.faiz@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+branch.semarang,Branch,branch.semarang@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+alva.yemima,Alva,alva.yemima@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+christian.yosua,Christian,christian.yosua@minilico.xyz,"OU=Banjarmasin,DC=minilico,DC=xyz",Password123,@minilico.xyz
+rifan.adi,Rifan,rifan.adi@minilico.xyz,"OU=Pekanbaru,DC=minilico,DC=xyz",Password123,@minilico.xyz
+edo.adryanto,Edo,edo.adryanto@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+agung.irfan,Agung,agung.irfan@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+andika.perwira,Andika,andika.perwira@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+syarifudin.jupri,Syarifudin,syarifudin.jupri@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+rizal.daffa,Rizal Daffa,rizal.daffa@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+aldo.bimasakti,Aldo,aldo.bimasakti@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+iyan.yuliana,Iyan,iyan.yuliana@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+dwi.mardani,Dwi,dwi.mardani@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+tommy.budianto,Tommy,tommy.budianto@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+marketingrental,Zuhal,marketingrental@minilico.xyz,"OU=PDCA & ISO,OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+rendi.pratama,Rendi,rendi.pratama@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+realdito.yasmin,Realdito,realdito.yasmin@minilico.xyz,"OU=PDCA & ISO,OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+bagas.bharata,Bagas Bayu,bagas.bharata@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+ridho.anggara,Ridho,ridho.anggara@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+muhammad.azhmi,Muhammad H,muhammad.azhmi@minilico.xyz,"OU=Jayapura,DC=minilico,DC=xyz",Password123,@minilico.xyz
+solihin.lihin,Solihin,solihin.lihin@minilico.xyz,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+shidqii.dewantoro,Shidqii,shidqii.dewantoro@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+farras.fitriadi,Muhamad,farras.fitriadi@minilico.xyz,"OU=Pontianak,DC=minilico,DC=xyz",Password123,@minilico.xyz
+bobby.haka,Bobby Yusuf,bobby.haka@minilico.xyz,"OU=PDCA & ISO,OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+bagas.putra,Bagas Dwi,bagas.putra@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+abdul.lubis,Abdul Muis,abdul.lubis@minilico.xyz,"OU=Samarinda,DC=minilico,DC=xyz",Password123,@minilico.xyz
+hendra.wibisono,Hendra Tri,hendra.wibisono@minilico.xyz,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+andito.wicaksono,Andito Dimas,andito.wicaksono@minilico.xyz,"OU=PDCA & ISO,OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+karim.nugraha,Karim,karim.nugraha@minilico.xyz,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+rahmat.agung,Rahmat,rahmat.agung@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+rika.dalumas,Rika,rika.dalumas@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+bagas.kuntala,Bagas,bagas.kuntala@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+danny.aguswahyudi,Danny,danny.aguswahyudi@traknus.co.id,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+alfi.muhammad,Alfi Faiz,alfi.muhammad@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+zaky.bamindo,Zaky,zaky.bamindo@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+counterparts.jkt,Counter Parts,counterparts.jkt@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+renaldy.putranto,Renaldy,renaldy.putranto@minilico.xyz,"OU=Surabaya,DC=minilico,DC=xyz",Password123,@minilico.xyz
+alif.alvianto,Alif,alif.alvianto@minilico.xyz,"OU=Pontianak,DC=minilico,DC=xyz",Password123,@minilico.xyz
+telesales.contactcen,Telesales Traknus,telesales.contactcenter@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+arif.indrayanto,Muh Arif,arif.indrayanto@minilico.xyz,"OU=Surabaya,DC=minilico,DC=xyz",Password123,@minilico.xyz
+andre.sihombing,Andre Jonathan,andre.sihombing@minilico.xyz,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+fahrizal.nurcahya,Fahrizal Aji,fahrizal.nurcahya@minilico.xyz,"OU=Semarang,DC=minilico,DC=xyz",Password123,@minilico.xyz
+adin.ega,Adin Dhia,adin.ega@minilico.xyz,"OU=Padang,DC=minilico,DC=xyz",Password123,@minilico.xyz
+muhammad.abyan,Muhammad Rifky,muhammad.abyan@minilico.xyz,"OU=Samarinda,DC=minilico,DC=xyz",Password123,@minilico.xyz
+cahyo.prabowo,Cahyo,cahyo.prabowo@minilico.xyz,"OU=Makassar,DC=minilico,DC=xyz",Password123,@minilico.xyz
+akhyar.musofa,Akhyar,akhyar.musofa@minilico.xyz,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+rainanda.ajnannadhif,Rainanda Muhammad,rainanda.ajnannadhif@minilico.xyz,"OU=Surabaya,DC=minilico,DC=xyz",Password123,@minilico.xyz
+deni.ardianto,Deni Yohanes,deni.ardianto@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+muhammad.arsyad,Muhammad Ihsan,muhammad.arsyad@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+muhammad.nugroho,Muhammad Rizki,muhammad.nugroho@minilico.xyz,"OU=Jayapura,DC=minilico,DC=xyz",Password123,@minilico.xyz
+albertus.cahya,Albertus Cahya,albertus.cahya@minilico.xyz,"OU=Pontianak,DC=minilico,DC=xyz",Password123,@minilico.xyz
+adams.abdalla,Adams Rizan,adams.abdalla@minilico.xyz,"OU=Surabaya,DC=minilico,DC=xyz",Password123,@minilico.xyz
+nabila.nurliandini,Nabila,nabila.nurliandini@minilico.xyz,"OU=Sampit,DC=minilico,DC=xyz",Password123,@minilico.xyz
+thoriq.fatih,Muhammad Thoriq,thoriq.fatih@minilico.xyz,"OU=Pekanbaru,DC=minilico,DC=xyz",Password123,@minilico.xyz
+daniel.siahaan,Daniel Egan,daniel.siahaan@minilico.xyz,"OU=BandarLampung,DC=minilico,DC=xyz",Password123,@minilico.xyz
+heykal.azizie,Heykal,heykal.azizie@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+nia.pusparani,Nia,nia.pusparani@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+brahmantyo.yudho,Brahmantyo,brahmantyo.yudho@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+rendy.pratama,Rendy,rendy.pratama@traknus.co.id,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+adm.cpho2,Adm,adm.cpho2@minilico.xyz,"OU=Medan,DC=minilico,DC=xyz",Password123,@minilico.xyz
+naufal.riandi,Naufal,naufal.riandi@minilico.xyz,"OU=Banjarmasin,DC=minilico,DC=xyz",Password123,@minilico.xyz
+irfansyah.effendi,Irfansyah,irfansyah.effendi@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+dena.firdaus,Dena Andika,dena.firdaus@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+dimas.setiawan,Dimas,dimas.setiawan@traknus.co.id,"OU=Jambi,DC=minilico,DC=xyz",Password123,@minilico.xyz
+kunto.danu,Kunto,kunto.danu@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+mbc.division,Mbc Division,mbc.division@minilico.xyz,"OU=Palembang,DC=minilico,DC=xyz",Password123,@minilico.xyz
+lindah.lestari,Lindah,lindah.lestari@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+pangky.valentino,Pangky,pangky.valentino@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+rafly.notonegoro,Rafly,rafly.notonegoro@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+rakha.makarim,Rakha,rakha.makarim@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+dafa.berfin,Dafa Rizkia,dafa.berfin@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+salvatore.mahameru,Salvatore Mahameru,salvatore.mahameru@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+agitcoba366,Agit,agitcoba366@traknus.co.id,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+contact.center,Contact,contact.center@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+ryan.permana,Ryan Bayu,ryan.permana@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+muhammad.rifananda,Muhammad Daffa,muhammad.rifananda@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+gabriel.kusuma,Gabriel Boggie,gabriel.kusuma@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+muhammad.ibnu,Muhammad,muhammad.ibnu@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+tito.wiratsongko,Tito,tito.wiratsongko@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admin.hc,Hc,admin.hc@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+fiscall.aditama,Fiscall Saktiyana,fiscall.aditama@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+cathlin.clarissa,Cathlin,cathlin.clarissa@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+agung.prayogi,Agung,agung.prayogi@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admsupport02.mkt,Moh  Panji,admsupport02.mkt@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+aprillia.nuraini,Aprillia,aprillia.nuraini@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+agit.test365,Agit,agit.test365@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+andi.bama,Andi Aldo,andi.bama@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+danu.asmoro,Danu Santo,danu.asmoro@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+tegar.lucas,Tegar,tegar.lucas@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+counter.sampit,Counter,counter.sampit@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+kemal.fachriansyah,Kemal,kemal.fachriansyah@minilico.xyz,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+user2.zoom,User2,user2.zoom@minilico.xyz,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+user1.zoom,User1,user1.zoom@minilico.xyz,"OU=Surabaya,DC=minilico,DC=xyz",Password123,@minilico.xyz
+user3.zoom,User3,user3.zoom@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+user4.zoom,User4,user4.zoom@minilico.xyz,"OU=Samarinda,DC=minilico,DC=xyz",Password123,@minilico.xyz
+user5.zoom,User5,user5.zoom@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+productspecialist_00,Productspecialist 001,productspecialist_001@minilico.xyz,"OU=Samarinda,DC=minilico,DC=xyz",Password123,@minilico.xyz
+webmaster,Webmaster,webmaster@minilico.xyz,"OU=Sampit,DC=minilico,DC=xyz",Password123,@minilico.xyz
+productspecialist.00,Productspecialist 002,productspecialist.002@minilico.xyz,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+agit.project5,Agit,agit.project5@traknus.co.id,"OU=Jakarta PLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+agit.365,Agit,agit.365@traknus.co.id,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+pst,Pst,pst@minilico.xyz,"OU=Medan,DC=minilico,DC=xyz",Password123,@minilico.xyz
+pst3,Pst3,pst3@minilico.xyz,"OU=Bandung,DC=minilico,DC=xyz",Password123,@minilico.xyz
+adimulya.sakti,Adimulya,adimulya.sakti@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+hafiz.permana,Hafiz,hafiz.permana@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+tjokorda.yoga,Tjokorda Gde,tjokorda.yoga@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+boh.padang,Boh,boh.padang@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+dian.saragih,Dian Juanda,dian.saragih@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+putri.sembiring,Putri Noviani,putri.sembiring@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+agung.prasetya,Agung,agung.prasetya@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+bayu.ariyanto,Bayu Dirgantara,bayu.ariyanto@minilico.xyz,"OU=Surabaya,DC=minilico,DC=xyz",Password123,@minilico.xyz
+pst.projectshn,Pst,pst.projectshn@minilico.xyz,"OU=AG-IT,OU=Vendor User,DC=minilico,DC=xyz",Password123,@minilico.xyz
+dept.legal,Legal,dept.legal@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+pwc.audit,Pwc Audit,pwc.audit@minilico.xyz,"OU=Makassar,DC=minilico,DC=xyz",Password123,@minilico.xyz
+test1234,Test1234,test1234@minilico.xyz,"OU=Samarinda,DC=minilico,DC=xyz",Password123,@minilico.xyz
+adhibarata.gunawan,Adhibarata,adhibarata.gunawan@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+adm.tps02,Admin,adm.tps02@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+workshop.jktfield,Workshop,workshop.jktfield@minilico.xyz,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+marcomm.officer,Marketing,marcomm.officer@minilico.xyz,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+bunga.paradhipta,Bunga Radya,bunga.paradhipta@minilico.xyz,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+luthfi.saputra,Luthfi Fathurrohman,luthfi.saputra@minilico.xyz,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+ilham.yefri,Ilham Meidarlis,ilham.yefri@minilico.xyz,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+satrio.wicaksono,Satrio Adi,satrio.wicaksono@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+brian.ketaren,Brian Wesly,brian.ketaren@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+bagas.arianto,Bagas Priambodo,bagas.arianto@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admmsi.jkt,Adm Msi,admmsi.jkt@minilico.xyz,"CN=Users,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admin.pajakshn,Admin,admin.pajakshn@minilico.xyz,"OU=Office365,DC=minilico,DC=xyz",Password123,@minilico.xyz
+admin.tps03,Admin,admin.tps03@minilico.xyz,"OU=Vendor User,DC=minilico,DC=xyz",Password123,@minilico.xyz
+shnrentalofficial,Media Sosial,shnrentalofficial@minilico.xyz,"OU=Vendor User,DC=minilico,DC=xyz",Password123,@minilico.xyz
+dealer.officer,Dealer Service,dealer.officer@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+rina.parliya,Rina,rina.parliya@minilico.xyz,"OU=Semarang,DC=minilico,DC=xyz",Password123,@minilico.xyz
+galib.marhaen,Galib Imam,galib.marhaen@minilico.xyz,"OU=Jakarta MLC,DC=minilico,DC=xyz",Password123,@minilico.xyz
+,,,"OU=Padang,DC=minilico,DC=xyz",,
+,,,"OU=Jakarta MLC,DC=minilico,DC=xyz",,
+,,,"OU=Jakarta MLC,DC=minilico,DC=xyz",,
+,,,"OU=Jakarta MLC,DC=minilico,DC=xyz",,
+,,,"OU=Jakarta MLC,DC=minilico,DC=xyz",,
+,,,"OU=Vendor User,DC=minilico,DC=xyz",,
+,,,"OU=Jakarta MLC,DC=minilico,DC=xyz",,
+,,,"OU=PWC Audit,OU=Vendor User,DC=minilico,DC=xyz",,
+,,,"CN=Users,DC=minilico,DC=xyz",,
+,,,"OU=Jakarta MLC,DC=minilico,DC=xyz",,
+,,,"CN=Users,DC=minilico,DC=xyz",,
+,,,"OU=Jakarta MLC,DC=minilico,DC=xyz",,
+,,,"OU=Jakarta MLC,DC=minilico,DC=xyz",,
+,,,"OU=Jakarta MLC,DC=minilico,DC=xyz",,
+,,,"OU=Jakarta MLC,DC=minilico,DC=xyz",,
+,,,"OU=Jakarta MLC,DC=minilico,DC=xyz",,
+,,,"OU=Jakarta MLC,DC=minilico,DC=xyz",,
+,,,"OU=Jakarta MLC,DC=minilico,DC=xyz",,
+,,,"OU=Jakarta MLC,DC=minilico,DC=xyz",,
+,,,"OU=Jakarta MLC,DC=minilico,DC=xyz",,
+,,,"OU=Jakarta MLC,DC=minilico,DC=xyz",,
+,,,"OU=Jakarta PLC,DC=minilico,DC=xyz",,
+,,,"OU=Jakarta MLC,DC=minilico,DC=xyz",,
+,,,"OU=Jakarta PLC,DC=minilico,DC=xyz",,
+,,,"OU=Jakarta MLC,DC=minilico,DC=xyz",,
+,,,"OU=Jakarta MLC,DC=minilico,DC=xyz",,
+,,,"OU=Jakarta MLC,DC=minilico,DC=xyz",,

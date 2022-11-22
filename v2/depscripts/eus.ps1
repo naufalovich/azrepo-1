@@ -18,14 +18,22 @@ $loc = "eastus"
 
 .\eus\vmad19a.ps1
 
+Read-Host -Prompt "Press any key to continue or CTRL+C to quit" 
+
 .\eus\pipws10a.ps1
 
 .\eus\vnicws10a.ps1
 
 .\eus\vmws10a.ps1
 
+Read-Host -Prompt "Press any key to continue or CTRL+C to quit" 
+
 .\eus\pipws10b.ps1
 
 .\eus\vnicws10b.ps1
 
 .\eus\vmws10b.ps1
+
+Read-Host -Prompt "Press any key to continue or CTRL+C to quit" 
+
+.\eus\nsgcfg.ps1

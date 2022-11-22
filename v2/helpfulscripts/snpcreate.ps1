@@ -3,8 +3,8 @@ Write-Output `n "===============================================================
 Write-Output    "Started: $msg" 
 Write-Output    "==================================================================" `n
 
-$loc = 'southeastasia'
-$lc = 'sea-'
+$loc = 'eastus'
+$lc = 'eus-'
 $rg = $lc + 'rg'
 $post = 'a'
 $os = 'ad19'

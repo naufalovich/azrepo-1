@@ -2,7 +2,7 @@ Write-Output `n "===============================================================
 Write-Output    "==========================  Change DNS from loop to itself  ==========================" 
 Write-Output    "======================================================================================" `n
 
-$Dns = @('10.0.0.11','8.8.8.8')
+$Dns = @('10.0.1.11','11.0.1.11')
 $adapter = Get-NetAdapter -Name "ethernet"
 $adapter | Set-DnsClientServerAddress -ServerAddresses $Dns
 
