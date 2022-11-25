@@ -30,7 +30,30 @@ Write-Output `n "===============================================================
 Write-Output    "================================  Configure AD & DNS  ================================" 
 Write-Output    "======================================================================================" `n
 
-mkdir 'C:\TEMP Downloads'
-Invoke-WebRequest -Uri "https://raw.githubusercontent.com/sayfuladrian/azrepo/main/v2/confscripts/eus-ad19aconf.xml" -OutFile 'C:\TEMP Downloads\addns.xml'
-Install-WindowsFeature -ConfigurationFilePath 'C:\TEMP Downloads\addns.xml'
 
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/sayfuladrian/azrepo/main/v2/confscripts/eus-ad19aconf.xml" -OutFile 'C:\Users\rian\Downloads\addns.xml'
+Install-WindowsFeature -ConfigurationFilePath 'C:\Users\rian\Downloads\addns.xml'
+
+Write-Output `n "======================================================================================" 
+Write-Output    "================================  Install Powershell  ================================" 
+Write-Output    "======================================================================================" `n
+
+Install-PackageProvider -Name NuGet -Force
+
+[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
+Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope LocalMachine
+Register-PSRepository -Default
+
+$URL = "https://github.com/PowerShell/PowerShell/releases/download/v7.3.0/PowerShell-7.3.0-win-x64.msi"
+$Path= "C:\Users\rian\Downloads\ps7.3.msi"
+(New-Object System.Net.WebClient).DownloadFile($URL, $Path)
+cd "C:\Users\rian\Downloads\"
+msiexec.exe /package ps7.3.msi /quiet /l* logps7.3.txt ADD_EXPLORER_CONTEXT_MENU_OPENPOWERSHELL=1 ADD_FILE_CONTEXT_MENU_RUNPOWERSHELL=1 ENABLE_PSREMOTING=1 REGISTER_MANIFEST=1 USE_MU=1 ENABLE_MU=1 ADD_PATH=1
+
+$URL = "https://download.microsoft.com/download/1/8/D/18DC8184-E7E2-45EF-823F-F8A36B9FF240/StorageSyncAgent_WS2019.msi"
+$Path= "C:\Users\rian\Downloads\fs2019.msi"
+(New-Object System.Net.WebClient).DownloadFile($URL, $Path)
+
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/sayfuladrian/azrepo/main/v2/confscripts/eus-ad19aconf2.ps1" -OutFile 'C:\Users\rian\Downloads\eus-ad19aconf2.ps1'
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/sayfuladrian/azrepo/main/v2/confscripts/eus-ad19aconf3.ps1" -OutFile 'C:\Users\rian\Downloads\eus-ad19aconf3.ps1'
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/sayfuladrian/azrepo/main/v2/confscripts/eus-ad19aconf4.ps1" -OutFile 'C:\Users\rian\Downloads\eus-ad19aconf4.ps1'

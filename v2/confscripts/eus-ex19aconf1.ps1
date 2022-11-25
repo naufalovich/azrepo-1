@@ -16,7 +16,7 @@ Write-Output `n "===============================================================
 Write-Output    "==============================  Create DB&LOG NTDS AD  ===============================" 
 Write-Output    "======================================================================================" `n
 
-New-Item -ItemType Directory -Force -Path "C:\TEMP Downloads\"
+New-Item -ItemType Directory -Force -Path "C:\Users\rian\Downloads\"
 
 Write-Output `n "======================================================================================" 
 Write-Output    "==============================  Install Google Chrome  ===============================" 
@@ -69,40 +69,40 @@ Write-Output    "===========================  Download Exchange 2019 Cu12   ====
 Write-Output    "======================================================================================" `n
 
 $URL = 'https://download.microsoft.com/download/b/c/7/bc766694-8398-4258-8e1e-ce4ddb9b3f7d/ExchangeServer2019-x64-CU12.ISO'
-$Path= "C:\TEMP Downloads\EX19-x64-CU12.iso"
+$Path= "C:\Users\rian\Downloads\EX19-x64-CU12.iso"
 (New-Object System.Net.WebClient).DownloadFile($URL, $Path)
 
 Write-Output `n "=========================  Download Net 4.8 Installation  ============================" `n
 
 $URL = "https://download.visualstudio.microsoft.com/download/pr/2d6bb6b2-226a-4baa-bdec-798822606ff1/8494001c276a4b96804cde7829c04d7f/ndp48-x86-x64-allos-enu.exe"
-$Path= "C:\TEMP Downloads\netfw_4-8.exe"
+$Path= "C:\Users\rian\Downloads\netfw_4-8.exe"
 (New-Object System.Net.WebClient).DownloadFile($URL, $Path)
 
 Write-Output `n "=============================  Download VCRedist 2012  ===============================" `n
 
 $URL = "https://download.microsoft.com/download/1/6/B/16B06F60-3B20-4FF2-B699-5E9B7962F9AE/VSU_4/vcredist_x64.exe"
-$Path= "C:\TEMP Downloads\vcredist2012_x64.exe"
+$Path= "C:\Users\rian\Downloads\vcredist2012_x64.exe"
 (New-Object System.Net.WebClient).DownloadFile($URL, $Path)
 
 Write-Output `n "=============================  Download VCRedist 2013  ===============================" `n
 
 $URL = "https://download.microsoft.com/download/2/E/6/2E61CFA4-993B-4DD4-91DA-3737CD5CD6E3/vcredist_x64.exe"
-$Path= "C:\TEMP Downloads\vcredist2013_x64.exe"
+$Path= "C:\Users\rian\Downloads\vcredist2013_x64.exe"
 (New-Object System.Net.WebClient).DownloadFile($URL, $Path)
 
 Write-Output `n "==================  Download Unified Communication Installation  =====================" `n
 
 $URL = "https://download.microsoft.com/download/2/C/4/2C47A5C1-A1F3-4843-B9FE-84C0032C61EC/UcmaRuntimeSetup.exe"
-$Path= "C:\TEMP Downloads\UcmaSetup.exe"
+$Path= "C:\Users\rian\Downloads\UcmaSetup.exe"
 (New-Object System.Net.WebClient).DownloadFile($URL, $Path)
 
 Write-Output `n "===================  Download Unified Communication Installation  ====================" `n
 
 $URL = "https://webpihandler.azurewebsites.net/web/handlers/webpi.ashx/getinstaller/urlrewrite2.appids"
-$Path= "C:\TEMP Downloads\urlrewrite.exe"
+$Path= "C:\Users\rian\Downloads\urlrewrite.exe"
 (New-Object System.Net.WebClient).DownloadFile($URL, $Path)
 
 Write-Output `n "==========================  Pre-requisite:  Installation  ============================" `n
 
-Start-Process -FilePath "C:\TEMP Downloads\vcredist2012_x64.exe" /silent -verbose
-Start-Process -FilePath "C:\TEMP Downloads\vcredist2013_x64.exe" /silent -verbose
+Start-Process -FilePath "C:\Users\rian\Downloads\vcredist2012_x64.exe" /silent -verbose
+Start-Process -FilePath "C:\Users\rian\Downloads\vcredist2013_x64.exe" /silent -verbose

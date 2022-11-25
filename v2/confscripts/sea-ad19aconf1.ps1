@@ -30,6 +30,6 @@ Write-Output `n "===============================================================
 Write-Output    "================================  Configure AD & DNS  ================================" 
 Write-Output    "======================================================================================" `n
 
-mkdir 'C:\TEMP Downloads'
-Invoke-WebRequest -Uri "https://raw.githubusercontent.com/sayfuladrian/azrepo/main/v2/confscripts/sea-ad19aconf.xml" -OutFile 'C:\TEMP Downloads\addns.xml'
-Install-WindowsFeature -ConfigurationFilePath 'C:\TEMP Downloads\addns.xml'
+
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/sayfuladrian/azrepo/main/v2/confscripts/sea-ad19aconf.xml" -OutFile 'C:\Users\rian\Downloads\addns.xml'
+Install-WindowsFeature -ConfigurationFilePath 'C:\Users\rian\Downloads\addns.xml'
