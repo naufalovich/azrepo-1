@@ -56,6 +56,9 @@
         "osDiskDeleteOption": {
             "value": "Delete"
         },
+        "osDiskSize": {
+            "value": "512"
+        },
         "virtualMachineSize": {
             "value": "Standard_D8s_v3"
         },
