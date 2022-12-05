@@ -11,7 +11,7 @@ if($check -eq $null){
 	New-AzResourceGroupDeployment `
 	  -Name remoteTemplateDeployment `
 	  -ResourceGroupName $rg `
-	  -TemplateUri "https://raw.githubusercontent.com/sayfuladrian/azrepo/main/v2/templates/vm-pip-nodisk-osSize.json" `
+	  -TemplateUri "https://raw.githubusercontent.com/sayfuladrian/azrepo/main/v2/templates/vm-pip-nodisk-ps.json" `
 	  -TemplateParameterUri "https://raw.githubusercontent.com/sayfuladrian/azrepo/main/v2/parameters/$var.json"
 	  
 }
