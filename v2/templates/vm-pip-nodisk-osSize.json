@@ -57,6 +57,9 @@
         "osDiskDeleteOption": {
             "type": "string"
         },
+		"osDiskSize": {
+			"type" : "int"
+		},
         "virtualMachineSize": {
             "type": "string"
         },
@@ -142,7 +145,7 @@
                             "storageAccountType": "[parameters('osDiskType')]"
                         },
                         "deleteOption": "[parameters('osDiskDeleteOption')]",
-						"diskSizeGB": 128
+						"diskSizeGB": "[parameters('osDiskSize')]"
                     },
                     "imageReference": {
                         "publisher": "[parameters('imagePublisher')]",

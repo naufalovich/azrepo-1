@@ -24,7 +24,7 @@ $loc = "eastus"
 
 .\eus\vnichv19a.ps1
 
-.\eus\vmwshv19a.ps1
+.\eus\vmhv19a.ps1
 
 #Read-Host -Prompt "Press any key to continue or CTRL+C to quit" 
 
