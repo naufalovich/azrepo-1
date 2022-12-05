@@ -31,5 +31,5 @@ Write-Output    "================================  Configure AD & DNS  =========
 Write-Output    "======================================================================================" `n
 
 
-Invoke-WebRequest -Uri "https://raw.githubusercontent.com/sayfuladrian/azrepo/main/v2/confscripts/sea-ad19aconf.xml" -OutFile 'C:\Users\rian\Downloads\addns.xml'
-Install-WindowsFeature -ConfigurationFilePath 'C:\Users\rian\Downloads\addns.xml'
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/sayfuladrian/azrepo/main/v2/confscripts/sea-ad19aconf.xml" -OutFile 'C:\T\addns.xml'
+Install-WindowsFeature -ConfigurationFilePath 'C:\T\addns.xml'

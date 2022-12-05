@@ -2,7 +2,7 @@
 Import-Module activedirectory
 
 #Store the data from the CSV in the $ADOU variable. 
-$ADOU = Import-csv "C:\Users\rian\Downloads\ou.csv"
+$ADOU = Import-csv "C:\T\ou.csv"
 
 #Loop through each row containing user details in the CSV file
 foreach ($ou in $ADou)

@@ -2,20 +2,20 @@ Write-Output `n "===============================================================
 Write-Output `n "==========================  Pre-requisite:  Installation  ============================" `n
 Write-Output    "======================================================================================" `n
 
-Start-Process -FilePath "C:\Users\rian\Downloads\netfw_4-8.exe" -verbose
+Start-Process -FilePath "C:\T\netfw_4-8.exe" -verbose
 $confirmation = Read-Host "Udah selesai installnya? [pencet enter kalo udah]"
 
-Start-Process -FilePath "C:\Users\rian\Downloads\UcmaSetup.exe" -verbose
+Start-Process -FilePath "C:\T\UcmaSetup.exe" -verbose
 $confirmation = Read-Host "Udah selesai installnya? [pencet enter kalo udah]"
 
-Start-Process -FilePath "C:\Users\rian\Downloads\rewrite21.msi" -verbose
+Start-Process -FilePath "C:\T\rewrite21.msi" -verbose
 $confirmation = Read-Host "Udah selesai installnya? [pencet enter kalo udah]"
 
 Write-Output `n "======================================================================================" 
 Write-Output    "=============================  Mount Exchange 2019 Cu12  =============================" 
 Write-Output    "======================================================================================" `n
 
-Mount-DiskImage -ImagePath 'C:\Users\rian\Downloads\EX19-X64-CU12.ISO'
+Mount-DiskImage -ImagePath 'C:\T\EX19-X64-CU12.ISO'
 
 Write-Output `n "=========================  Exchange Inst.  Prepare Schema  =========================" `n
 
