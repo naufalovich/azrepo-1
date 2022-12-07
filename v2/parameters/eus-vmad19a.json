@@ -57,7 +57,7 @@
             "value": "Delete"
         },
         "osDiskSize": {
-            "value": 512
+            "value": 128
         },
         "virtualMachineSize": {
             "value": "Standard_D4s_v3"
