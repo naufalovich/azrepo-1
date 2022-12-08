@@ -90,7 +90,7 @@
 			"value" : "https://raw.githubusercontent.com/sayfuladrian/azrepo/main/v2/confscripts/"
 		},
 		"scriptfilename": {
-			"value" : "eus-ad19aconf1.ps1"
+			"value" : "eus-ad19conf.ps1"
 		}
     }
 }
