@@ -48,6 +48,8 @@ Write-Output    "===============================================================
 Register-PSRepository -Default
 Install-Module -Name Az -Force
 Install-Module -Name ExchangeOnlineManagement -Force
+Install-Module -Name msonline -Force
+#Install-Module -Name Microsoft.Graph -Force
 
 Write-Output `n "======================================================================================" 
 Write-Output    "==============================  Download Required Apps  ==============================" 
