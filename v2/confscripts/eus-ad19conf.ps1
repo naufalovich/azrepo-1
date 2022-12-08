@@ -59,14 +59,12 @@ $URL = "https://github.com/PowerShell/PowerShell/releases/download/v7.3.0/PowerS
 $Path= "C:\T\PowerShell7.3.msi"
 (New-Object System.Net.WebClient).DownloadFile($URL, $Path)
 msiexec.exe /package "C:\T\PowerShell7.3.msi" /quiet /l* logps7.3.txt ADD_EXPLORER_CONTEXT_MENU_OPENPOWERSHELL=1 ADD_FILE_CONTEXT_MENU_RUNPOWERSHELL=1 ENABLE_PSREMOTING=1 REGISTER_MANIFEST=1 USE_MU=1 ENABLE_MU=1 ADD_PATH=1
-Remove-Item "C:\T\PowerShell7.3.msi" -Force
 
 #StorageSyncAgent + installation
 $URL = "https://download.microsoft.com/download/1/8/D/18DC8184-E7E2-45EF-823F-F8A36B9FF240/StorageSyncAgent_WS2019.msi"
 $Path= "C:\T\StorageSync2019.msi"
 (New-Object System.Net.WebClient).DownloadFile($URL, $Path)
 msiexec.exe /package "C:\T\StorageSync2019.msi" /quiet
-Remove-Item "C:\T\StorageSync2019.msi" -Force
 
 #WindowsAdminCenter
 $URL = "https://download.microsoft.com/download/1/0/5/1059800B-F375-451C-B37E-758FFC7C8C8B/WindowsAdminCenter2110.2.msi"
