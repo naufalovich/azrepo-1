@@ -60,7 +60,7 @@
             "value": 128
         },
         "virtualMachineSize": {
-            "value": "Standard_D4s_v3"
+            "value": "Standard_D2s_v3"
         },
         "nicDeleteOption": {
             "value": "Detach"

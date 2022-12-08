@@ -47,14 +47,22 @@ Install-Module -Name Az -Force
 New-Item -ItemType Directory -Force -Path C:\T\
 
 $URL = "https://github.com/PowerShell/PowerShell/releases/download/v7.3.0/PowerShell-7.3.0-win-x64.msi"
-$Path= "C:\T\ps7.3.msi"
+$Path= "C:\T\PowerShell7.3.msi"
 (New-Object System.Net.WebClient).DownloadFile($URL, $Path)
 msiexec.exe /package "C:\T\ps7.3.msi" /quiet /l* logps7.3.txt ADD_EXPLORER_CONTEXT_MENU_OPENPOWERSHELL=1 ADD_FILE_CONTEXT_MENU_RUNPOWERSHELL=1 ENABLE_PSREMOTING=1 REGISTER_MANIFEST=1 USE_MU=1 ENABLE_MU=1 ADD_PATH=1
 
 $URL = "https://download.microsoft.com/download/1/8/D/18DC8184-E7E2-45EF-823F-F8A36B9FF240/StorageSyncAgent_WS2019.msi"
-$Path= "C:\T\fs2019.msi"
+$Path= "C:\T\StorageSync2019.msi"
+(New-Object System.Net.WebClient).DownloadFile($URL, $Path)
+
+$URL = "https://download.microsoft.com/download/1/0/5/1059800B-F375-451C-B37E-758FFC7C8C8B/WindowsAdminCenter2110.2.msi"
+$Path= "C:\T\WindowsAdminCenter2110.msi"
 (New-Object System.Net.WebClient).DownloadFile($URL, $Path)
 
 Invoke-WebRequest -Uri "https://raw.githubusercontent.com/sayfuladrian/azrepo/main/v2/confscripts/eus-ad19aconf2.ps1" -OutFile 'C:\T\eus-ad19aconf2.ps1'
 Invoke-WebRequest -Uri "https://raw.githubusercontent.com/sayfuladrian/azrepo/main/v2/confscripts/eus-ad19aconf3.ps1" -OutFile 'C:\T\eus-ad19aconf3.ps1'
 Invoke-WebRequest -Uri "https://raw.githubusercontent.com/sayfuladrian/azrepo/main/v2/confscripts/eus-ad19aconf4.ps1" -OutFile 'C:\T\eus-ad19aconf4.ps1'
+
+Set-ItemProperty 'HKCU:\Software\Microsoft\Windows\Shell\Associations\UrlAssociations\ftp\UserChoice' -name ProgId ChromeHTML
+Set-ItemProperty 'HKCU:\Software\Microsoft\Windows\Shell\Associations\UrlAssociations\http\UserChoice' -name ProgId ChromeHTML
+Set-ItemProperty 'HKCU:\Software\Microsoft\Windows\Shell\Associations\UrlAssociations\https\UserChoice' -name ProgId ChromeHTML

@@ -11,5 +11,5 @@ Write-Output    "=========================  Add Reverse Lookup Zone on DNS  ====
 Write-Output    "======================================================================================" `n
 
 Get-DnsServerZone
-Add-DnsServerPrimaryZone -NetworkID "10.0.0.0/24" -ReplicationScope "Domain"
+Add-DnsServerPrimaryZone -NetworkID "10.0.1.0/24" -ReplicationScope "Domain"
 Get-DnsServerZone

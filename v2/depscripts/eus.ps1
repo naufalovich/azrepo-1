@@ -18,6 +18,12 @@ $loc = "eastus"
 
 .\eus\vmad19a.ps1
 
+.\eus\pipad19b.ps1
+
+.\eus\vnicad19b.ps1
+
+.\eus\vmad19b.ps1
+
 #Read-Host -Prompt "Press any key to continue or CTRL+C to quit" 
 
 # .\eus\piphv19a.ps1

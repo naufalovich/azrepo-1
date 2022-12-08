@@ -9,6 +9,7 @@ Write-Output    "=================================== Skip this first ===========
 
 Write-Output    "========================= If these failed, include above ============================="
 
+Install-WindowsFeature -Name AD-Domain-Services -IncludeManagementTools
 Import-Module ADDSDeployment
 $passAd = ConvertTo-SecureString "Jakarta@2022" -AsPlainText -Force
 Install-ADDSForest `
