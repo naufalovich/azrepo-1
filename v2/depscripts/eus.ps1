@@ -22,7 +22,7 @@ $loc = "eastus"
 
 #.\eus\vnicad19b.ps1
 
-#.\eus\vmad19b.ps1
+.\eus\vmad19b.ps1
 
 #.\eus\pipad19c.ps1
 

@@ -47,6 +47,7 @@ Write-Output    "===============================================================
 
 Register-PSRepository -Default
 Install-Module -Name Az -Force
+Install-Module -Name ExchangeOnlineManagement -Force
 
 Write-Output `n "======================================================================================" 
 Write-Output    "==============================  Download Required Apps  ==============================" 
@@ -97,3 +98,9 @@ Write-Output    "===============================================================
 Invoke-WebRequest -Uri "https://raw.githubusercontent.com/sayfuladrian/azrepo/main/v2/confscripts/eus-ad19aconf2.ps1" -OutFile 'C:\T\eus-ad19aconf2.ps1'
 Invoke-WebRequest -Uri "https://raw.githubusercontent.com/sayfuladrian/azrepo/main/v2/confscripts/eus-ad19aconf3.ps1" -OutFile 'C:\T\eus-ad19aconf3.ps1'
 Invoke-WebRequest -Uri "https://raw.githubusercontent.com/sayfuladrian/azrepo/main/v2/confscripts/eus-ad19aconf4.ps1" -OutFile 'C:\T\eus-ad19aconf4.ps1'
+
+Write-Output `n "======================================================================================" 
+Write-Output    "=============================  Import Start Layout  ==================================" 
+Write-Output    "======================================================================================" `n
+
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/sayfuladrian/azrepo/main/v2/confscripts/eus-ad19start.xml" -OutFile 'C:\T\start.xml'
