@@ -13,14 +13,14 @@ Import-Module ADDSDeployment
 $passAd = ConvertTo-SecureString "Jakarta@2022" -AsPlainText -Force
 Install-ADDSDomain `
 -NoGlobalCatalog:$false `
--CreateDnsDelegation:$false `
+-CreateDnsDelegation:$true `
 -DatabasePath "C:\AD\DBNTDS" `
 -DomainMode "WinThreshold" `
 -DomainType "ChildDomain" `
 -InstallDns:$true `
 -LogPath "C:\AD\LOGNTDS" `
--NewDomainName "us.minilico.xyz" `
--NewDomainNetbiosName "ad" `
+-NewDomainName "id" `
+-NewDomainNetbiosName "ID" `
 -ParentDomainName "minilico.xyz" `
 -NoRebootOnCompletion:$false `
 -SiteName "Default-First-Site-Name" `

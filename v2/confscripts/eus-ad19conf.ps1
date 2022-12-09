@@ -101,13 +101,13 @@ Invoke-WebRequest -Uri "https://raw.githubusercontent.com/sayfuladrian/azrepo/ma
 Invoke-WebRequest -Uri "https://raw.githubusercontent.com/sayfuladrian/azrepo/main/v2/confscripts/eus-ad19aconf3.ps1" -OutFile 'C:\T\eus-ad19aconf3.ps1'
 Invoke-WebRequest -Uri "https://raw.githubusercontent.com/sayfuladrian/azrepo/main/v2/confscripts/eus-ad19aconf4.ps1" -OutFile 'C:\T\eus-ad19aconf4.ps1'
 
-Invoke-WebRequest -Uri "https://raw.githubusercontent.com/sayfuladrian/azrepo/main/v2/confscripts/eus-ad19bconf2.ps1" -OutFile 'C:\T\eus-ad19aconf2.ps1'
-Invoke-WebRequest -Uri "https://raw.githubusercontent.com/sayfuladrian/azrepo/main/v2/confscripts/eus-ad19bconf3.ps1" -OutFile 'C:\T\eus-ad19aconf3.ps1'
-Invoke-WebRequest -Uri "https://raw.githubusercontent.com/sayfuladrian/azrepo/main/v2/confscripts/eus-ad19bconf4.ps1" -OutFile 'C:\T\eus-ad19aconf4.ps1'
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/sayfuladrian/azrepo/main/v2/confscripts/eus-ad19bconf2.ps1" -OutFile 'C:\T\eus-ad19bconf2.ps1'
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/sayfuladrian/azrepo/main/v2/confscripts/eus-ad19bconf3.ps1" -OutFile 'C:\T\eus-ad19bconf3.ps1'
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/sayfuladrian/azrepo/main/v2/confscripts/eus-ad19bconf4.ps1" -OutFile 'C:\T\eus-ad19bconf4.ps1'
 
-Invoke-WebRequest -Uri "https://raw.githubusercontent.com/sayfuladrian/azrepo/main/v2/confscripts/eus-ad19cconf2.ps1" -OutFile 'C:\T\eus-ad19aconf2.ps1'
-Invoke-WebRequest -Uri "https://raw.githubusercontent.com/sayfuladrian/azrepo/main/v2/confscripts/eus-ad19cconf3.ps1" -OutFile 'C:\T\eus-ad19aconf3.ps1'
-Invoke-WebRequest -Uri "https://raw.githubusercontent.com/sayfuladrian/azrepo/main/v2/confscripts/eus-ad19cconf4.ps1" -OutFile 'C:\T\eus-ad19aconf4.ps1'
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/sayfuladrian/azrepo/main/v2/confscripts/eus-ad19cconf2.ps1" -OutFile 'C:\T\eus-ad19cconf2.ps1'
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/sayfuladrian/azrepo/main/v2/confscripts/eus-ad19cconf3.ps1" -OutFile 'C:\T\eus-ad19cconf3.ps1'
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/sayfuladrian/azrepo/main/v2/confscripts/eus-ad19cconf4.ps1" -OutFile 'C:\T\eus-ad19cconf4.ps1'
 
 Write-Output `n "======================================================================================" 
 Write-Output    "=============================  Import Start Layout  ==================================" 
