@@ -5,10 +5,10 @@ New-VMSwitch -Name vna -SwitchType Internal
 Get-NetAdapter
 
 #Create new virtual network
-New-NetIPAddress –IPAddress 192.168.100.1 -PrefixLength 24 -InterfaceIndex 28
+New-NetIPAddress –IPAddress 192.168.100.1 -PrefixLength 24 -InterfaceIndex 18
 
 #Create new NAT
-New-NetNat -Name Nat-Outside -InternalIPInterfaceAddressPrefix 192.168.100.0/24
+New-NetNat -Name vnanat -InternalIPInterfaceAddressPrefix 192.168.100.0/24
 
 #Check NAT
 Get-NetNat

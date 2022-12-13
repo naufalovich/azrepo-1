@@ -1,0 +1,24 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "networkInterfaceName": {
+            "value": "eus-vnicad19d"
+        },
+        "location": {
+            "value": "eastus"
+        },
+        "subnetId": {
+            "value": "/subscriptions/e83bf359-b68a-43d7-8ff5-2efb1e4e6124/resourceGroups/eus-rg/providers/Microsoft.Network/virtualNetworks/eus-vnet/subnets/eus-vnetpvt"
+        },
+        "privateIPAllocationMethod": {
+            "value": "Static"
+        },
+        "privateIPv4Address": {
+            "value": "10.0.1.221"
+        },
+        "networkSecurityGroupId": {
+            "value": "/subscriptions/e83bf359-b68a-43d7-8ff5-2efb1e4e6124/resourceGroups/eus-rg/providers/Microsoft.Network/networkSecurityGroups/eus-nsgpvt"
+        }
+    }
+}
