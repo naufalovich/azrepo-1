@@ -4,13 +4,13 @@ $lc = "eus" + "-"
 $rg = $lc + "rg"
 $loc = "eastus"
 
-#.\eus\rg.ps1
+.\eus\rg.ps1
 
-#.\eus\vnet.ps1
+.\eus\vnet.ps1
 
-#.\eus\nsgpbl.ps1
+.\eus\nsgpbl.ps1
 
-#.\eus\nsgpvt.ps1
+.\eus\nsgpvt.ps1
 
 .\eus\pipad19a.ps1
 
@@ -18,11 +18,15 @@ $loc = "eastus"
 
 .\eus\vmad19a.ps1
 
+#Read-Host -Prompt "Press any key to continue or CTRL+C to quit" 
+
 #.\eus\pipad19b.ps1
 
 #.\eus\vnicad19b.ps1
 
 #.\eus\vmad19b.ps1
+
+#Read-Host -Prompt "Press any key to continue or CTRL+C to quit" 
 
 #.\eus\pipad19c.ps1
 
@@ -30,19 +34,21 @@ $loc = "eastus"
 
 #.\eus\vmad19c.ps1
 
+#Read-Host -Prompt "Press any key to continue or CTRL+C to quit" 
+
 #.\eus\pipad19d.ps1
 
 #.\eus\vnicad19d.ps1
 
 #.\eus\vmad19d.ps1
 
-#Read-Host -Prompt "Press any key to continue or CTRL+C to quit" 
+Read-Host -Prompt "Press any key to continue or CTRL+C to quit" 
 
-#.\eus\piphv19a.ps1
+.\eus\piphv19a.ps1
 
-#.\eus\vnichv19a.ps1
+.\eus\vnichv19a.ps1
 
-#.\eus\vmhv19a.ps1
+.\eus\vmhv19a.ps1
 
 #Read-Host -Prompt "Press any key to continue or CTRL+C to quit" 
 
@@ -68,6 +74,6 @@ $loc = "eastus"
 
 #.\eus\vmws10b.ps1
 
-#Read-Host -Prompt "Press any key to continue or CTRL+C to quit" 
+Read-Host -Prompt "Press any key to continue or CTRL+C to quit" 
 
-#.\eus\nsgcfg.ps1
+.\eus\nsgcfg.ps1
